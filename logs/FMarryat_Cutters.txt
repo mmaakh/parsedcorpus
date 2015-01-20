@@ -1,0 +1,1258 @@
+Loading parser from serialized file edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz ... done [0.6 sec].
+Parsing file: ../../corpus_7authors/books_raw/FrederickMarryat/FMarryat_Cutters.txt
+Parsing [sent. 1 len. 8]: The Three Cutters , by Captain Marryat .
+Parsing [sent. 2 len. 15]: Captain Frederick Marryat was born July 10 1792 , and died August 8 1848 .
+Parsing [sent. 3 len. 16]: He retired from the British navy in 1828 in order to devote himself to writing .
+Parsing [sent. 4 len. 31]: In the following 20 years he wrote 26 books , many of which are among the very best of English literature , and some of which are still in print .
+Parsing [sent. 5 len. 14]: Marryat had an extraordinary gift for the invention of episodes in his stories .
+Parsing [sent. 6 len. 24]: He says somewhere that when he sat down for the day 's work , he never knew what he was going to write .
+Parsing [sent. 7 len. 7]: He certainly was a literary genius .
+Parsing [sent. 8 len. 20]: `` The Three Cutters '' was published in 1836 , the tenth book to flow from Marryat 's pen .
+Parsing [sent. 9 len. 21]: This e-book was transcribed in 1998 by Nick Hodson , and was reformatted in 2003 , and again in 2005 .
+Parsing [sent. 10 len. 9]: THE THREE CUTTERS , BY CAPTAIN FREDERICK MARRYAT .
+Parsing [sent. 11 len. 3]: CHAPTER ONE .
+Parsing [sent. 12 len. 4]: CUTTER THE FIRST .
+Parsing [sent. 13 len. 9]: Reader , have you ever been at Plymouth ?
+Parsing [sent. 14 len. 39]: If you have , your eye must have dwelt with ecstasy upon the beautiful property of the Earl of Mount Edgcumbe : if you have not been at Plymouth , the sooner that you go there the better .
+Parsing [sent. 15 len. 31]: At Mount Edgcumbe you will behold the finest timber in existence , towering up to the summits of the hills , and feathering down to the shingle on the beach .
+Parsing [sent. 16 len. 18]: And from this lovely spot you will witness one of the most splendid panoramas in the world .
+Parsing [sent. 17 len. 174]: You will see -- I hardly know what you will not see -- you will see Ram Head , and Cawsand Bay ; and then you will see the Breakwater , and Drake 's Island , and the Devil 's Bridge below you ; and the town of Plymouth and its fortifications , and the Hoe ; and then you will come to the Devil 's Point , round which the tide runs devilish strong ; and then you will see the New Victualling Office , -- about which Sir James Gordon used to stump all day , and take a pinch of snuff from every man who carried a box , which all were delighted to give , and he was delighted to receive , proving how much pleasure may be communicated merely by a pinch of snuff ; and then you will see Mount Wise and Mutton Cove ; the town of Devonport ; with its magnificent dockyard and arsenals , North Corner , and the way which leads to Saltash .
+Parsing [sent. 18 len. 51]: And you will see ships building and ships in ordinary ; and ships repairing and ships fitting ; and hulks and convict ships , and the guard-ship ; ships ready to sail and ships under sail ; besides lighters , men-of-war 's boats , dockyard-boats , bum-boats , and shore-boats .
+Parsing [sent. 19 len. 75]: In short , there is a great deal to see at Plymouth besides the sea itself : but what I particularly wish now is , that you will stand at the battery of Mount Edgcumbe and look into Barn Pool below you , and there you will see , lying at single anchor , a cutter ; and you may also see , by her pendant and ensign , that she is a yacht .
+Parsing [sent. 20 len. 34]: Of all the amusements entered into by the nobility and gentry of our island there is not one so manly , so exciting , so patriotic , or so national , as yacht-sailing .
+Parsing [sent. 21 len. 38]: It is peculiar to England , not only for our insular position and our fine harbours , but because it requires a certain degree of energy and a certain amount of income rarely to be found elsewhere .
+Parsing [sent. 22 len. 37]: It has been wisely fostered by our sovereigns , who have felt that the security of the kingdom is increased by every man being more or less a sailor , or connected with the nautical profession .
+Parsing [sent. 23 len. 33]: It is an amusement of the greatest importance to the country , as it has much improved our ship-building and our ship-fitting , while it affords employment to our seamen and shipwrights .
+Parsing [sent. 24 len. 24]: But if I were to say all that I could say in praise of yachts , I should never advance with my narrative .
+Parsing [sent. 25 len. 21]: I shall therefore drink a bumper to the health of Admiral Lord Yarborough and the Yacht Club , and proceed .
+Parsing [sent. 26 len. 18]: You observe that this yacht is cutter-rigged , and that she sits gracefully on the smooth water .
+Parsing [sent. 27 len. 29]: She is just heaving up her anchor ; her foresail is loose , all ready to cast her -- in a few minutes she will be under way .
+Parsing [sent. 28 len. 23]: You see that there are ladies sitting at the taffrail ; and there are five haunches of venison hanging over the stern .
+Parsing [sent. 29 len. 8]: Of all amusements , give me yachting .
+Parsing [sent. 30 len. 7]: But we must go on board .
+Parsing [sent. 31 len. 43]: The deck , you observe , is of narrow deal planks as white as snow ; the guns are of polished brass ; the bitts and binnacles of mahogany : she is painted with taste ; and all the mouldings are gilded .
+Parsing [sent. 32 len. 15]: There is nothing wanting ; and yet how clear and unencumbered are her decks !
+Parsing [sent. 33 len. 5]: Let us go below .
+Parsing [sent. 34 len. 15]: There is the ladies ' cabin : can anything be more tasteful or elegant ?
+Parsing [sent. 35 len. 5]: Is it not luxurious ?
+Parsing [sent. 36 len. 25]: And , although so small , does not its very confined space astonish you , when you view so many comforts so beautifully arranged ?
+Parsing [sent. 37 len. 11]: This is the dining-room , and where the gentlemen repair .
+Parsing [sent. 38 len. 10]: What can be more complete or _ recherche _ ?
+Parsing [sent. 39 len. 9]: And just peep into their state-rooms and bed-places .
+Parsing [sent. 40 len. 43]: Here is the steward 's room and the beaufet : the steward is squeezing lemons for the punch , and there is the champagne in ice ; and by the side of the pail the long-corks are ranged up , all ready .
+Parsing [sent. 41 len. 22]: Now , let us go forwards : here are , the men 's berths , not confined as in a man-of-war .
+Parsing [sent. 42 len. 2]: No !
+Parsing [sent. 43 len. 16]: Luxury starts from abaft , and is not wholly lost , even at the fore-peak .
+Parsing [sent. 44 len. 11]: This is the kitchen ; is it not admirably arranged ?
+Parsing [sent. 45 len. 8]: What a _ multum in parvo _ !
+Parsing [sent. 46 len. 10]: And how delightful are the fumes of the turtle-soup !
+Parsing [sent. 47 len. 25]: At sea we do meet with rough weather at times ; but , for roughing it out , give me a _ yacht _ .
+Parsing [sent. 48 len. 18]: Now that I have shown you round the vessel , I must introduce the parties on board .
+Parsing [sent. 49 len. 41]: You observe that florid , handsome man , in white trousers and blue jacket , who has a telescope in one hand , and is sipping a glass of brandy and water which he has just taken off the skylight .
+Parsing [sent. 50 len. 16]: That is the owner of the vessel , and a member of the Yacht Club .
+Parsing [sent. 51 len. 40]: It is Lord B -- : he looks like a sailor , and he does not much belie his looks ; yet I have seen him in his robes of state at the opening of the House of Lords .
+Parsing [sent. 52 len. 15]: The one near to him is Mr Stewart , a lieutenant in the navy .
+Parsing [sent. 53 len. 35]: He holds on by the rigging with one hand , because , having been actively employed all his life , he does not know what to do with hands which have nothing in them .
+Parsing [sent. 54 len. 22]: He is a _ protege _ of Lord B -- , and is now on board as sailing-master of the yacht .
+Parsing [sent. 55 len. 18]: That handsome , well-built man , who is standing by the binnacle , is a Mr Hautaine .
+Parsing [sent. 56 len. 16]: He served six years as midshipman in the navy , and did not like it .
+Parsing [sent. 57 len. 16]: He then served six years in a cavalry regiment , and did not like it .
+Parsing [sent. 58 len. 18]: He then married , and in a much shorter probation found that he did not like that .
+Parsing [sent. 59 len. 30]: But he is very fond of yachts and other men 's wives , if he does not like his own ; and wherever he goes , he is welcome .
+Parsing [sent. 60 len. 26]: That young man with an embroidered silk waistcoat and white gloves , bending to talk to one of the ladies , is a Mr Vaughan .
+Parsing [sent. 61 len. 17]: He is to be seen at Almack 's , at Crockford 's , and everywhere else .
+Parsing [sent. 62 len. 9]: Everybody knows him , and he knows everybody .
+Parsing [sent. 63 len. 12]: He is a little in debt , and yachting is convenient .
+Parsing [sent. 64 len. 23]: The one who sits by the lady is a relation of Lord B -- ; you see at once what he is .
+Parsing [sent. 65 len. 35]: He apes the sailor ; he has not shaved , because sailors have no time to shave every day ; he has not changed his linen , because sailors can not change every day .
+Parsing [sent. 66 len. 18]: He has a cigar in his mouth , which makes him half sick and annoys his company .
+Parsing [sent. 67 len. 32]: He talks of the pleasure of a rough sea , which will drive all the ladies below -- and then they will not perceive that he is more sick than themselves .
+Parsing [sent. 68 len. 20]: He has the misfortune to be born to a large estate , and to be a _ fool _ .
+Parsing [sent. 69 len. 5]: His name is Ossulton .
+Parsing [sent. 70 len. 16]: The last of the gentlemen on board whom I have to introduce is Mr Seagrove .
+Parsing [sent. 71 len. 12]: He is slightly made , with marked features full of intelligence .
+Parsing [sent. 72 len. 16]: He has been brought up to the bar ; and has every qualification but application .
+Parsing [sent. 73 len. 15]: He has never had a brief , nor has he a chance of one .
+Parsing [sent. 74 len. 32]: He is the fiddler of the company , and he has locked up his chambers and come , by invitation of his lordship , to play on board of his yacht .
+Parsing [sent. 75 len. 31]: I have yet to describe the ladies -- perhaps I should have commenced with them -- I must excuse myself upon the principle of reserving the best to the last .
+Parsing [sent. 76 len. 17]: All puppet-showmen do so : and what is this but the first scene in my puppet-show ?
+Parsing [sent. 77 len. 8]: We will describe them according to seniority .
+Parsing [sent. 78 len. 20]: That tall , thin , cross-looking lady of forty-five is a spinster , and sister to Lord B -- .
+Parsing [sent. 79 len. 36]: She has been persuaded , very much against her will , to come on board ; but her notions of propriety would not permit her niece to embark under the protection of only her father .
+Parsing [sent. 80 len. 27]: She is frightened at everything : if a rope is thrown down on the deck , up she starts , and cries , `` Oh ! ''
+Parsing [sent. 81 len. 46]: if on the deck , she thinks the water is rushing in below ; if down below , and there is a noise , she is convinced there is danger ; and if it be perfectly still , she is sure there is something wrong .
+Parsing [sent. 82 len. 32]: She fidgets herself and everybody , and is quite a nuisance with her pride and ill-humour ; but she has strict notions of propriety , and sacrifices herself as a martyr .
+Parsing [sent. 83 len. 7]: She is the Hon. Miss Ossulton .
+Parsing [sent. 84 len. 28]: The lady who , when she smiles , shows so many dimples in her pretty oval face , is a young widow of the name of Lascelles .
+Parsing [sent. 85 len. 20]: She married an old man to please her father and mother , which was very dutiful on her part .
+Parsing [sent. 86 len. 13]: She was rewarded by finding herself a widow with a large fortune .
+Parsing [sent. 87 len. 31]: Having married the first time to please her parents , she intends now to marry to please herself ; but she is very young , and is in no hurry .
+Parsing [sent. 88 len. 17]: That young lady with such a sweet expression of countenance is the Hon. Miss Cecilia Ossulton .
+Parsing [sent. 89 len. 40]: She is lively , witty , and has no fear in her composition ; but she is very young yet , not more than seventeen -- and nobody knows what she really is -- she does not know herself .
+Parsing [sent. 90 len. 13]: These are the parties who meet in the cabin of the yacht .
+Parsing [sent. 91 len. 14]: The crew consist of ten fine seamen , the steward and the cook .
+Parsing [sent. 92 len. 24]: There is also Lord B -- 's valet , Mr Ossulton 's gentleman , and the lady 's - maid of Miss Ossulton .
+Parsing [sent. 93 len. 16]: There not being accommodation for them , the other servants have been left on shore .
+Parsing [sent. 94 len. 14]: The yacht is now under way , and her sails are all set .
+Parsing [sent. 95 len. 11]: She is running between Drake 's Island and the main .
+Parsing [sent. 96 len. 5]: Dinner has been announced .
+Parsing [sent. 97 len. 30]: As the reader has learnt something about the preparations , I leave him to judge whether it be not very pleasant to sit down to dinner in a yacht .
+Parsing [sent. 98 len. 23]: The air has given everybody an appetite ; and it was not until the cloth was removed that the conversation became general .
+Parsing [sent. 99 len. 24]: `` Mr Seagrove , '' said his lordship , `` you very nearly lost your passage ; I expected you last Thursday . ''
+Parsing [sent. 100 len. 22]: `` I am sorry , my lord , that business prevented my sooner attending to your lordship 's kind summons . ''
+Parsing [sent. 101 len. 41]: `` Come , Seagrove , do n't be nonsensical , '' said Hautaine ; `` you told me yourself , the other evening , when you were talkative , that you had never had a brief in your life . ''
+Parsing [sent. 102 len. 31]: `` And a very fortunate circumstance , '' replied Seagrove ; `` for if I had had a brief I should not have known what to have done with it .
+Parsing [sent. 103 len. 15]: It is not my fault ; I am fit for nothing but a commissioner .
+Parsing [sent. 104 len. 13]: But still I had business , and very important business , too .
+Parsing [sent. 105 len. 42]: I was summoned by Ponsonby to go with him to Tattersall 's , to give my opinion about a horse he wishes to purchase , and then to attend him to Forest Wild to plead his cause with his uncle . ''
+Parsing [sent. 106 len. 30]: `` It appears , then , that you were retained , '' replied Lord B -- ; `` may I ask you whether your friend gained his cause ? ''
+Parsing [sent. 107 len. 18]: `` No , my lord , he lost his cause , but he gained a suit . ''
+Parsing [sent. 108 len. 12]: `` Expound your riddle , sir , '' said Cecilia Ossulton .
+Parsing [sent. 109 len. 26]: `` The fact is , that old Ponsonby is very anxious that William should marry Miss Percival , whose estates join on to Forest Wild .
+Parsing [sent. 110 len. 24]: Now , my friend William is about as fond of marriage as I am of law , and thereby issue was joined . ''
+Parsing [sent. 111 len. 11]: `` But why were you to be called in ? ''
+Parsing [sent. 112 len. 4]: inquired Mrs Lascelles .
+Parsing [sent. 113 len. 36]: `` Because , madam , as Ponsonby never buys a horse without consulting me -- '' `` I can not see the analogy , sir , '' observed Miss Ossulton , senior , bridling up .
+Parsing [sent. 114 len. 64]: `` Pardon me , madam : the fact is , '' continued Seagrove , `` that , as I always have to back Ponsonby 's horses , he thought it right that , in this instance , I should back him ; he required special pleading , but his uncle tried him for the capital offence , and he was not allowed counsel .
+Parsing [sent. 115 len. 42]: As soon as we arrived , and I had bowed myself into the room , Mr Ponsonby bowed me out again -- which would have been infinitely more jarring to my feelings , had not the door been left a-jar . ''
+Parsing [sent. 116 len. 12]: `` Do anything but pun , Seagrove , '' interrupted Hautaine .
+Parsing [sent. 117 len. 14]: `` Well , then , I will take a glass of wine . ''
+Parsing [sent. 118 len. 22]: `` Do so , '' said his lordship ; `` but recollect the whole company are impatient for your story . ''
+Parsing [sent. 119 len. 21]: `` I can assure you , my lord , that it was equal to any scene in a comedy . ''
+Parsing [sent. 120 len. 31]: Now be it observed that Mr Seagrove had a great deal of comic talent ; he was an excellent mimic , and could alter his voice almost as he pleased .
+Parsing [sent. 121 len. 22]: It was a custom of his to act a scene as between other people , and he performed it remarkably well .
+Parsing [sent. 122 len. 40]: Whenever he said that anything he was going to narrate was `` as good as a comedy , '' it was generally understood by those who were acquainted with him that he was to be asked so to do .
+Parsing [sent. 123 len. 15]: Cecilia Ossulton therefore immediately said , `` Pray act it , Mr Seagrove . ''
+Parsing [sent. 124 len. 35]: Upon which , Mr Seagrove -- premising that he had not only heard , but also seen all that passed -- changing his voice , and suiting the action to the word , commenced .
+Parsing [sent. 125 len. 22]: `` It may , '' said he , `` be called : -- `` FIVE THOUSAND ACRES IN A RING-FENCE . ''
+Parsing [sent. 126 len. 18]: We shall not describe Mr Seagrove 's motions ; they must be inferred from his words . ''
+Parsing [sent. 127 len. 82]: ` It will , then , William , ' observed Mr Ponsonby , stopping , and turning to his nephew , after a rapid walk up and down the room with his hands behind him under his coat , so as to allow the tails to drop their perpendicular about three inches clear of his body , ` I may say , without contradiction , be the finest property in the country -- five thousand acres in a ring-fence . ' ''
+Parsing [sent. 128 len. 60]: ` I dare say it will , uncle , ' replied William , tapping his foot as he lounged in a green morocco easy-chair ; ` and so , because you have set your fancy upon having these two estates enclosed together in a ring-fence , you wish that I should also be enclosed in a ring-fence . ' ''
+Parsing [sent. 129 len. 15]: ` And a beautiful property it will be , ' replied Mr Ponsonby . ''
+Parsing [sent. 130 len. 5]: ` Which , uncle ?
+Parsing [sent. 131 len. 8]: The estate or the wife ? ' ''
+Parsing [sent. 132 len. 15]: ` Both , nephew , both ; and I expect your consent . ' ''
+Parsing [sent. 133 len. 8]: ` Uncle , I am not avaricious .
+Parsing [sent. 134 len. 8]: Your present property is sufficient for me .
+Parsing [sent. 135 len. 26]: With your permission , instead of doubling the property , and doubling myself , I will remain your sole heir , and single . ' ''
+Parsing [sent. 136 len. 15]: ` Observe , William , such an opportunity may not occur again for centuries .
+Parsing [sent. 137 len. 10]: We shall restore Forest Wild to its ancient boundaries .
+Parsing [sent. 138 len. 11]: You know it has been divided nearly two hundred years .
+Parsing [sent. 139 len. 43]: We now have a glorious , golden opportunity of re-uniting the two properties ; and when joined , the estate will be exactly what it was when granted to our ancestors by Henry the Eighth , at the period of the Reformation .
+Parsing [sent. 140 len. 13]: This house must be pulled down , and the monastery left standing .
+Parsing [sent. 141 len. 16]: Then we shall have our own again , and the property without encumbrance . ' ''
+Parsing [sent. 142 len. 6]: ` Without encumbrance , uncle !
+Parsing [sent. 143 len. 12]: You forget that , there will be a wife . ' ''
+Parsing [sent. 144 len. 17]: ` And you forget that there will be five thousand acres in a ring-fence . ' ''
+Parsing [sent. 145 len. 19]: ` Indeed , uncle , you ring it too often in my ears that I should forget it .
+Parsing [sent. 146 len. 46]: But , much as I should like to be the happy possessor of such a property , I do not feel inclined to be the happy possessor of Miss Percival ; and the more so , as I have never seen the property . ' ''
+Parsing [sent. 147 len. 12]: ` We will ride over it to-morrow , William . ' ''
+Parsing [sent. 148 len. 8]: ` Ride over Miss Percival , uncle !
+Parsing [sent. 149 len. 7]: That will not be very gallant .
+Parsing [sent. 150 len. 33]: I will , however , one of these days ride over the property with you , which , as well as Miss Percival , I have not as yet seen . ' ''
+Parsing [sent. 151 len. 15]: ` Then I can tell you she is a very pretty property . ' ''
+Parsing [sent. 152 len. 11]: ` If she were not in a ring-fence . ' ''
+Parsing [sent. 153 len. 7]: ` In good heart , William .
+Parsing [sent. 154 len. 11]: That is , I mean an excellent disposition . ' ''
+Parsing [sent. 155 len. 7]: ` Valuable in matrimony . ' ''
+Parsing [sent. 156 len. 26]: ` And well tilled -- I should say well educated -- by her three maiden aunts , who are the patterns of propriety . ' ''
+Parsing [sent. 157 len. 10]: ` Does any one follow the fashion ? ' ''
+Parsing [sent. 158 len. 30]: ` In a high state of cultivation ; that is , her mind highly cultivated , and according to the last new system -- what is it ? ' ''
+Parsing [sent. 159 len. 29]: ` A four-course shift , I presume , ' replied William , laughing ; ` that is , dancing , singing , music , and drawing . ' ''
+Parsing [sent. 160 len. 5]: ` And only seventeen !
+Parsing [sent. 161 len. 7]: Capital soil , promising good crops .
+Parsing [sent. 162 len. 8]: What would you have more ? ' ''
+Parsing [sent. 163 len. 17]: ` A very pretty estate , uncle , if it were not the estate of matrimony .
+Parsing [sent. 164 len. 25]: I am sorry , very sorry , to disappoint you ; but I must decline taking a lease of it for life . ' ''
+Parsing [sent. 165 len. 21]: ` Then , sir , allow me to hint to you that in my testament you are only a tenant-at-will .
+Parsing [sent. 166 len. 18]: I consider it a duty that I owe to the family that the estate should be re-united .
+Parsing [sent. 167 len. 44]: That can only be done by one of our family marrying Miss Percival ; and as you will not , I shall now write to your cousin James , and if he accept my proposal , shall make _ him _ my heir .
+Parsing [sent. 168 len. 17]: Probably he will more fully appreciate the advantages of five thousand acres in a ring-fence . '
+Parsing [sent. 169 len. 12]: `` And Mr Ponsonby directed his steps towards the door . ''
+Parsing [sent. 170 len. 26]: ` Stop , my dear uncle , ' cried William , rising up from his easy-chair ; ` we do not quite understand one another .
+Parsing [sent. 171 len. 51]: It is very true that I would prefer half the property and remaining single , to the two estates and the estate of marriage ; but at the same time I did not tell you that I would prefer beggary to a wife and five thousand acres in a ring-fence .
+Parsing [sent. 172 len. 11]: I know you to be a man of your word .
+Parsing [sent. 173 len. 21]: I accept your proposal , and you need not put my cousin James to the expense of postage . ' ''
+Parsing [sent. 174 len. 32]: ` Very good , William ; I require no more : and as I know you to be a man of your word , I shall consider this match as settled .
+Parsing [sent. 175 len. 25]: It was on this account only that I sent for you , and now you may go back again as soon as you please .
+Parsing [sent. 176 len. 12]: I will let you know when all is ready . ' ''
+Parsing [sent. 177 len. 23]: ` I must be at Tattersall 's on Monday , uncle ; there is a horse I must have for next season .
+Parsing [sent. 178 len. 17]: Pray , uncle , may I ask when you are likely to want me ? ' ''
+Parsing [sent. 179 len. 18]: ` Let me see -- this is May -- about July , I should think . ' ''
+Parsing [sent. 180 len. 5]: ` July , uncle !
+Parsing [sent. 181 len. 11]: Spare me -- I can not marry in the dog-days .
+Parsing [sent. 182 len. 5]: No , hang it !
+Parsing [sent. 183 len. 5]: Not July . ' ''
+Parsing [sent. 184 len. 43]: ` Well , William , perhaps , as you must come down once or twice to see the property -- Miss Percival , I should say -- it may be too soon -- suppose we put it off till October . ' ''
+Parsing [sent. 185 len. 12]: ` October -- I shall be down at Melton . ' ''
+Parsing [sent. 186 len. 28]: ` Pray , sir , may I then inquire what portion of the year is not , with you , _ dog _ - days ? ' ''
+Parsing [sent. 187 len. 18]: ` Why , uncle , next April , now -- I think that would do . ' ''
+Parsing [sent. 188 len. 4]: ` Next April !
+Parsing [sent. 189 len. 8]: Eleven months , and a winter between .
+Parsing [sent. 190 len. 13]: Suppose Miss Percival was to take a cold and die . ' ''
+Parsing [sent. 191 len. 14]: ` I should be excessively obliged to her , ' thought William . ''
+Parsing [sent. 192 len. 3]: ` No !
+Parsing [sent. 193 len. 3]: No ! '
+Parsing [sent. 194 len. 17]: continued Mr Ponsonby : ` there is nothing certain in this world , William . ' ''
+Parsing [sent. 195 len. 21]: ` Well , then , uncle , suppose we arrange it for the first _ hard frost _ . ' ''
+Parsing [sent. 196 len. 12]: ` We have had no hard frosts , lately , William .
+Parsing [sent. 197 len. 6]: We may wait for years .
+Parsing [sent. 198 len. 8]: The sooner it is over the better .
+Parsing [sent. 199 len. 31]: Go back to town , buy your horse , and then come down here , my dear William , to oblige your uncle -- never mind the dog-days . ' ''
+Parsing [sent. 200 len. 42]: ` Well , sir , if I am to make a sacrifice , it shall not be done by halves ; out of respect for you I will even marry in July , without any regard to the thermometer . ' ''
+Parsing [sent. 201 len. 9]: ` You are a good boy , William .
+Parsing [sent. 202 len. 8]: Do you want a cheque ? ' ''
+Parsing [sent. 203 len. 17]: ` I have had one to-day , ' thought William , and was almost at fault .
+Parsing [sent. 204 len. 19]: ` I shall be most thankful , sir -- they sell horse-flesh by the ounce now-a-days . ' ''
+Parsing [sent. 205 len. 7]: ` And you pay in pounds .
+Parsing [sent. 206 len. 6]: There , William . ' ''
+Parsing [sent. 207 len. 26]: ` Thank you , sir , I 'm all obedience ; and I 'll keep my word , even if there should be a comet .
+Parsing [sent. 208 len. 26]: I 'll go and buy the horse , and then I shall be ready to take the ring-fence as soon as you please . ' ''
+Parsing [sent. 209 len. 16]: ` Yes , and you 'll get over it cleverly , I 've no doubt .
+Parsing [sent. 210 len. 14]: Five thousand acres , William , and -- a pretty wife ! ' ''
+Parsing [sent. 211 len. 10]: ` Have you any further commands , uncle ? '
+Parsing [sent. 212 len. 11]: said William , depositing the cheque in his pocket-book . ''
+Parsing [sent. 213 len. 13]: ` None , my dear boy : are you going ? ' ''
+Parsing [sent. 214 len. 13]: ` Yes , sir ; I dine at the Clarendon . ' ''
+Parsing [sent. 215 len. 7]: ` Well , then , good-bye .
+Parsing [sent. 216 len. 10]: Make my compliments and excuses to your friend Seagrove .
+Parsing [sent. 217 len. 9]: You will come on Tuesday or Wednesday . '
+Parsing [sent. 218 len. 38]: `` Thus was concluded the marriage between William Ponsonby and Emily Percival , and the junction of the two estates , which formed together the great desideratum -- _ five thousand acres in a ring-fence _ . ''
+Parsing [sent. 219 len. 11]: Mr Seagrove finished , and he looked round for approbation .
+Parsing [sent. 220 len. 25]: `` Very good , indeed , Seagrove , '' said his lordship ; `` you must take a glass of wine after that . ''
+Parsing [sent. 221 len. 21]: `` I would not give much for Miss Percival 's chance of happiness , '' observed the elder Miss Ossulton .
+Parsing [sent. 222 len. 16]: `` Of two evils choose the least , they say , '' observed Mr Hautaine .
+Parsing [sent. 223 len. 9]: `` Poor Ponsonby could not help himself . ''
+Parsing [sent. 224 len. 28]: `` That 's a very polite observation of yours , Mr Hautaine -- I thank you in the name of the sex , '' replied Cecilia Ossulton .
+Parsing [sent. 225 len. 19]: `` Nay , Miss Ossulton ; would you like to marry a person whom you never saw ? ''
+Parsing [sent. 226 len. 32]: `` Most certainly not ; but when you mentioned the two evils , Mr Hautaine , I appeal to your honour , did you not refer to marriage or beggary ? ''
+Parsing [sent. 227 len. 27]: `` I must confess it , Miss Ossulton ; but it is hardly fair to call on my honour to get me into a scrape . ''
+Parsing [sent. 228 len. 28]: `` I only wish that the offer had been made to me , '' observed Vaughan ; `` I should not have hesitated as Ponsonby did . ''
+Parsing [sent. 229 len. 28]: `` Then I beg you will not think of proposing for me , '' said Mrs Lascelles , laughing ; for Mr Vaughan had been excessively attentive .
+Parsing [sent. 230 len. 24]: `` It appears to me , Vaughan , '' observed Seagrove , `` that you have slightly committed yourself by that remark . ''
+Parsing [sent. 231 len. 22]: Vaughan , who thought so too , replied : `` Mrs Lascelles must be aware that I was only joking . ''
+Parsing [sent. 232 len. 3]: `` Fie !
+Parsing [sent. 233 len. 18]: Mr Vaughan , '' cried Cecilia Ossulton ; `` you know it came from your heart . ''
+Parsing [sent. 234 len. 28]: `` My dear Cecilia , '' said the elder Miss Ossulton , `` you forget yourself -- what can you possibly know about gentlemen 's hearts ? ''
+Parsing [sent. 235 len. 17]: `` The Bible says that they are ` deceitful and desperately wicked , ' aunt . ''
+Parsing [sent. 236 len. 17]: `` And can not we also quote the Bible against your sex , Miss Ossulton ? ''
+Parsing [sent. 237 len. 3]: replied Seagrove .
+Parsing [sent. 238 len. 24]: `` Yes , you could , perhaps , if any of you had ever read it , '' replied Miss Ossulton , carelessly .
+Parsing [sent. 239 len. 42]: `` Upon my word , Cissy , you are throwing the gauntlet down to the gentlemen , '' observed Lord B -- ; `` but I shall throw my warder down , and not permit this combat _ a l'outrance _ .
+Parsing [sent. 240 len. 20]: -- I perceive you drink no more wine , gentlemen , we will take our coffee on deck . ''
+Parsing [sent. 241 len. 58]: `` We were just about to retire , my lord , '' observed the elder Miss Ossulton , with great asperity : `` I have been trying to catch the eye of Mrs Lascelles for some time , but -- '' `` I was looking another way , I presume , '' interrupted Mrs Lascelles , smiling .
+Parsing [sent. 242 len. 16]: `` I am afraid that I am the unfortunate culprit , '' said Mr Seagrove .
+Parsing [sent. 243 len. 66]: `` I was telling a little anecdote to Mrs Lascelles -- '' `` Which , of course , from its being communicated in an undertone , was not proper for all the company to hear , '' replied the elder Miss Ossulton ; `` but if Mrs Lascelles is now ready , '' continued she , bridling up , as she rose from her chair .
+Parsing [sent. 244 len. 20]: `` At all events , I can hear the remainder of it on deck , '' replied Mrs Lascelles .
+Parsing [sent. 245 len. 46]: The ladies rose and went into the cabin , Cecilia and Mrs Lascelles exchanging very significant smiles as they followed the precise spinster , who did not choose that Mrs Lascelles should take the lead merely because she had once happened to have been married .
+Parsing [sent. 246 len. 11]: The gentlemen also broke up , and went on deck .
+Parsing [sent. 247 len. 31]: `` We have a nice breeze now , my lord , '' observed Mr Stewart , who had remained on deck , `` and we lie right up Channel . ''
+Parsing [sent. 248 len. 24]: `` So much the better , '' replied his lordship ; `` we ought to have been anchored at Cowes a week ago .
+Parsing [sent. 249 len. 9]: They will all be there before us . ''
+Parsing [sent. 250 len. 23]: `` Tell Mr Simpson to bring me a light for my cigar , '' said Mr Ossulton to one of the men .
+Parsing [sent. 251 len. 56]: Mr Stewart went down to his dinner ; the ladies and the coffee came on deck : the breeze was fine , the weather -LRB- it was April -RRB- almost warm ; and the yacht , whose name was the _ Arrow _ , assisted by the tide , soon left the Mewstone far astern .
+Parsing [sent. 252 len. 3]: CHAPTER TWO .
+Parsing [sent. 253 len. 4]: CUTTER THE SECOND .
+Parsing [sent. 254 len. 9]: Reader , have you ever been at Portsmouth ?
+Parsing [sent. 255 len. 33]: If you have , you must have been delighted with the view from the saluting battery ; and if you have not you had better go there as soon as you can .
+Parsing [sent. 256 len. 85]: From the saluting battery you may look up the harbour , and see much of what I have described at Plymouth ; the scenery is different , but similar arsenals and dockyards , and an equal portion of our stupendous navy are to be found there ; and you will see Gosport on the other side of the harbour , and Sallyport close to you ; besides a great many other places , which , from the saluting battery , you can not see .
+Parsing [sent. 257 len. 10]: And then there is Southsea Beach to your left .
+Parsing [sent. 258 len. 77]: Before you , Spithead , with the men-of-war , and the Motherbank crowded with merchant vessels ; and there is the buoy where the _ Royal George _ was wrecked and where she still lies , the fish swimming in and out of her cabin windows but that is not all ; you can also see the Isle of Wight , -- Ryde with its long wooden pier , and Cowes , where the yachts lie .
+Parsing [sent. 259 len. 42]: In fact there is a great deal to be seen at Portsmouth as well as at Plymouth ; but what I wish you particularly to see just now is a vessel holding fast to the buoy just off the saluting battery .
+Parsing [sent. 260 len. 32]: She is a cutter ; and you may know that she belongs to the Preventive Service by the number of gigs and galleys which she has hoisted up all round her .
+Parsing [sent. 261 len. 30]: She looks like a vessel that was about to sail with a cargo of boats ; two on deck , one astern , one on each side of her .
+Parsing [sent. 262 len. 15]: You observe that she is painted black , and all her boats are white .
+Parsing [sent. 263 len. 19]: She is not such an elegant vessel as the yacht , and she is much more lumbered up .
+Parsing [sent. 264 len. 11]: She has no haunches of venison hanging over the stern !
+Parsing [sent. 265 len. 17]: But I think there is a leg of mutton and some cabbages hanging by their stalks .
+Parsing [sent. 266 len. 6]: But revenue-cutters are not yachts .
+Parsing [sent. 267 len. 35]: You will find no turtle or champagne ; but , nevertheless , you will , perhaps , find a joint to carve at , a good glass of grog , and a hearty welcome .
+Parsing [sent. 268 len. 6]: Let us go on board .
+Parsing [sent. 269 len. 58]: You observe the guns are iron , and painted black , and her bulwarks are painted red ; it is not a very becoming colour , but then it lasts a long while , and the dockyard is not very generous on the score of paint -- or lieutenants of the navy troubled with much spare cash .
+Parsing [sent. 270 len. 57]: She has plenty of men , and fine men they are ; all dressed in red flannel shirts and blue trousers ; some of them have not taken off their canvas or tarpaulin petticoats , which are very useful to them , as they are in the boats night and day , and in all weathers .
+Parsing [sent. 271 len. 30]: But we will at once go down into the cabin , where we shall find the lieutenant who commands her , a master 's mate , and a midshipman .
+Parsing [sent. 272 len. 38]: They have each their tumbler before them , and are drinking gin-toddy , hot , with sugar -- capital gin , too , ` bove proof ; it is from that small anker standing under the table .
+Parsing [sent. 273 len. 18]: It was one that they forgot to return to the custom-house when they made their last seizure .
+Parsing [sent. 274 len. 5]: We must introduce them .
+Parsing [sent. 275 len. 63]: The elderly personage , with grizzly hair and whiskers , a round pale face , and a somewhat red nose -LRB- being too much in the wind will make the nose red , and this old officer is very often `` in the wind , '' of course , from the very nature of his profession -RRB- , is a Lieutenant Appleboy .
+Parsing [sent. 276 len. 55]: He has served in every class of vessel in the service , and done the duty of first-lieutenant for twenty years ; he is now on promotion -- that is to say , after he has taken a certain number of tubs of gin , he will be rewarded with his rank as commander .
+Parsing [sent. 277 len. 26]: It is a pity that what he takes inside of him does not count , for he takes it morning , noon , and night .
+Parsing [sent. 278 len. 36]: He is just filling his fourteenth glass ; he always keeps a regular account , as he never exceeds his limited number , which is seventeen ; then he is exactly down to his bearings .
+Parsing [sent. 279 len. 40]: The master 's mate 's name is Tomkins ; he has served his six years three times over , and has now outgrown his ambition ; which is fortunate for him , as his chances of promotion are small .
+Parsing [sent. 280 len. 36]: He prefers a small vessel to a large one , because he is not obliged to be so particular in his dress -- and looks for his lieutenancy whenever there shall be another charity promotion .
+Parsing [sent. 281 len. 48]: He is fond of soft bread , for his teeth are all absent without leave ; he prefers porter to any other liquor , but he can drink his glass of grog , whether it be based upon rum , brandy or the liquor now before him .
+Parsing [sent. 282 len. 42]: Mr Smith is the name of that young gentleman whose jacket is so out at the elbows ; he has been intending to mend it these last two months ; but is too lazy to go to his chest for another .
+Parsing [sent. 283 len. 29]: He has been turned out of half the ships in the service for laziness ; but he was born so -- and therefore it is not his fault .
+Parsing [sent. 284 len. 35]: A revenue-cutter suits him , she is half her time hove to ; and he has no objection to boat-service , as he sits down always in the stern-sheets , which is not fatiguing .
+Parsing [sent. 285 len. 15]: Creeping for tubs is his delight , as he gets over so little ground .
+Parsing [sent. 286 len. 32]: He is fond of grog , but there is some trouble in carrying the tumbler so often to his mouth ; so he looks at it , and lets it stand .
+Parsing [sent. 287 len. 11]: He says little because he is too lazy to speak .
+Parsing [sent. 288 len. 23]: He has served more than _ eight years _ ; but as for passing -- it has never come into his head .
+Parsing [sent. 289 len. 20]: Such are the three persons who are now sitting in the cabin of the revenue-cutter , drinking hot gin-toddy .
+Parsing [sent. 290 len. 16]: `` Let me see , it was , I think , in ninety-three or ninety-four .
+Parsing [sent. 291 len. 45]: Before you were in the service , Tomkins -- '' `` Maybe , sir ; it 's so long ago since I entered , that I ca n't recollect dates -- but this I know , that my aunt died three days before . ''
+Parsing [sent. 292 len. 13]: `` Then the question is , when did your aunt die ? ''
+Parsing [sent. 293 len. 3]: `` Oh !
+Parsing [sent. 294 len. 10]: She died about a year after my uncle . ''
+Parsing [sent. 295 len. 9]: `` And when did your uncle die ? ''
+Parsing [sent. 296 len. 10]: `` I 'll be hanged if I know ! ''
+Parsing [sent. 297 len. 14]: `` Then , d'ye see , you 've no departure to work from .
+Parsing [sent. 298 len. 16]: However , I think you can not have been in the service at that time .
+Parsing [sent. 299 len. 14]: We were not quite so particular about uniform as we are now . ''
+Parsing [sent. 300 len. 13]: `` Then I think the service was all the better for it .
+Parsing [sent. 301 len. 55]: Now-a-days , in your crack ships , a mate has to go down in the hold or spirit-room , and after whipping up fifty empty casks , and breaking out twenty full ones , he is expected to come on quarter-deck as clean as if he was just come out of a band-box . ''
+Parsing [sent. 302 len. 26]: `` Well , there 's plenty of water alongside , as far as the outward man goes , and iron dust is soon brushed off .
+Parsing [sent. 303 len. 51]: However , as you say , perhaps a little too much is expected ; at least , in five of the ships in which I was first-lieutenant , the captain was always hauling me over the coals about the midshipmen not dressing properly , as if I was their dry-nurse .
+Parsing [sent. 304 len. 26]: I wonder what Captain Prigg would have said if he had seen such a turn-out as you , Mr Smith , on his quarter-deck . ''
+Parsing [sent. 305 len. 13]: `` I should have had one turn-out more , '' drawled Smith .
+Parsing [sent. 306 len. 11]: `` With your out-at-elbows jacket , there , eh ! ''
+Parsing [sent. 307 len. 4]: continued Mr Appleboy .
+Parsing [sent. 308 len. 25]: Smith turned up his elbows , looked at one and then at the other ; after so fatiguing an operation , he was silent .
+Parsing [sent. 309 len. 7]: `` Well , where was I ?
+Parsing [sent. 310 len. 2]: Oh !
+Parsing [sent. 311 len. 31]: It was about ninety-three or ninety-four , as I said that it happened -- Tomkins , fill your glass and hand me the sugar -- how do I get on ?
+Parsing [sent. 312 len. 36]: This is Number 15 , '' said Appleboy , counting some white lines on the table by him ; and taking up a piece of chalk , he marked one more line on his tally .
+Parsing [sent. 313 len. 42]: `` I do n't think this is so good a tub as the last , Tomkins , there 's a twang about it -- a want of juniper ; however , I hope , we shall have better luck this time .
+Parsing [sent. 314 len. 9]: Of course you know we sail to-morrow ? ''
+Parsing [sent. 315 len. 15]: `` I presume so , by the leg of mutton coming on board . ''
+Parsing [sent. 316 len. 12]: `` True -- true ; I 'm regular -- as clock-work .
+Parsing [sent. 317 len. 12]: After being twenty years a first-lieutenant one gets a little method .
+Parsing [sent. 318 len. 4]: I like regularity .
+Parsing [sent. 319 len. 24]: Now the admiral has never omitted asking me to dinner once , every time I have come into harbour , except this time .
+Parsing [sent. 320 len. 25]: I was so certain of it , that I never expected to sail ; and I have but two shirts clean in consequence . ''
+Parsing [sent. 321 len. 9]: `` That 's odd , is n't it ?
+Parsing [sent. 322 len. 26]: -- and the more so , because he has had such great people down here , and has been giving large parties every day . ''
+Parsing [sent. 323 len. 16]: `` And yet I made three seizures , besides sweeping up those thirty-seven tubs . ''
+Parsing [sent. 324 len. 10]: `` I swept them up , '' observed Smith .
+Parsing [sent. 325 len. 12]: `` That 's all the same thing , _ younker _ .
+Parsing [sent. 326 len. 36]: When you 've been a little longer in the service , you 'll find out that the commanding officer has the merit of all that is done ; but you 're _ green _ yet .
+Parsing [sent. 327 len. 8]: Let me see , where was I ?
+Parsing [sent. 328 len. 2]: Oh !
+Parsing [sent. 329 len. 12]: -- It was about ninety-three or ninety-four , as I said .
+Parsing [sent. 330 len. 26]: At that time I was in the Channel fleet -- Tomkins , I 'll trouble you for the hot water ; this water 's cold .
+Parsing [sent. 331 len. 12]: Mr Smith , do me the favour to ring the bell .
+Parsing [sent. 332 len. 9]: -- Jem , some more hot water . ''
+Parsing [sent. 333 len. 42]: `` Please , sir , '' said Jem , who was bare-footed as well as bare-headed , touching his lock of hair on his forehead , `` the cook had capsized the kettle -- but he has put more on . ''
+Parsing [sent. 334 len. 5]: `` Capsized the kettle !
+Parsing [sent. 335 len. 2]: Hah !
+Parsing [sent. 336 len. 11]: -- very well -- we 'll talk about that to-morrow .
+Parsing [sent. 337 len. 19]: Mr Tomkins , do me the favour to put him in the report : I may forget it .
+Parsing [sent. 338 len. 17]: And pray , sir , how long is it since he has put more on ? ''
+Parsing [sent. 339 len. 13]: `` Just this moment , sir , as I came aft . ''
+Parsing [sent. 340 len. 11]: `` Very well , we 'll see to that to-morrow .
+Parsing [sent. 341 len. 12]: You bring the kettle aft as soon as it is ready .
+Parsing [sent. 342 len. 12]: I say , Mr Jem , is that fellow sober ? ''
+Parsing [sent. 343 len. 13]: `` Yees , sir , he be sober as you be . ''
+Parsing [sent. 344 len. 15]: `` It 's quite astonishing what a propensity the common sailors have to liquor .
+Parsing [sent. 345 len. 18]: Forty odd years have I been in the service , and I 've never found any difference .
+Parsing [sent. 346 len. 33]: I only wish I had a guinea for every time that I have given a fellow seven-water grog during my servitude as first-lieutenant , I would n't call the king my cousin .
+Parsing [sent. 347 len. 21]: Well , if there 's no hot water , we must take lukewarm ; it wo n't do to heave-to .
+Parsing [sent. 348 len. 5]: By the Lord Harry !
+Parsing [sent. 349 len. 6]: Who would have thought it ?
+Parsing [sent. 350 len. 7]: -- I 'm at number sixteen !
+Parsing [sent. 351 len. 6]: Let me count , yes !
+Parsing [sent. 352 len. 9]: -- surely I must have made a mistake .
+Parsing [sent. 353 len. 7]: A fact , by Heaven ! ''
+Parsing [sent. 354 len. 12]: continued Mr Appleboy , throwing the chalk down on the table .
+Parsing [sent. 355 len. 25]: `` Only one more glass , after this ; that is , if I have counted right -- I may have seen double . ''
+Parsing [sent. 356 len. 7]: `` Yes , '' drawled Smith .
+Parsing [sent. 357 len. 6]: `` Well , never mind .
+Parsing [sent. 358 len. 8]: Let 's go on with my story .
+Parsing [sent. 359 len. 46]: It was either in the year ninety-three or ninety-four that I was in the Channel fleet : we were then abreast of Torbay -- '' `` Here be the hot water , sir , '' cried Jem , putting the kettle down on the deck .
+Parsing [sent. 360 len. 6]: `` Very well , boy .
+Parsing [sent. 361 len. 12]: By-the-bye , has the jar of butter come on board ? ''
+Parsing [sent. 362 len. 11]: `` Yes , but it broke all down the middle .
+Parsing [sent. 363 len. 9]: I tied him up with a ropeyarn . ''
+Parsing [sent. 364 len. 8]: `` Who broke it , sir ? ''
+Parsing [sent. 365 len. 10]: `` Coxswain says as how he did n't . ''
+Parsing [sent. 366 len. 8]: `` But who did , sir . ''
+Parsing [sent. 367 len. 19]: `` Coxswain handed it up to Bill Jones , and he says as how he did n't . ''
+Parsing [sent. 368 len. 8]: `` But who did , sir . ''
+Parsing [sent. 369 len. 19]: `` Bill Jones gave it to me , and I 'm sure as how I did n't . ''
+Parsing [sent. 370 len. 12]: `` Then who did , sir , I ask you . ''
+Parsing [sent. 371 len. 31]: `` I think it be Bill Jones , sir , 'cause he 's fond of butter , I know , and there be very little left in the jar . ''
+Parsing [sent. 372 len. 12]: `` Very well , we 'll see to that to-morrow morning .
+Parsing [sent. 373 len. 24]: Mr Tomkins , you 'll oblige me by putting the butter-jar down in the report , in case it should slip my memory .
+Parsing [sent. 374 len. 16]: Bill Jones , indeed , looks as if butter would n't melt in his mouth .
+Parsing [sent. 375 len. 3]: Never mind .
+Parsing [sent. 376 len. 43]: Well , it was , as I said before -- it was in the year ninety-three or ninety-four , when I was in the Channel fleet ; we were then off Torbay , and had just taken two reefs in the top-sails .
+Parsing [sent. 377 len. 28]: Stop -- before I go on with my story , I 'll take my last glass ; I think it 's the last -- let me count .
+Parsing [sent. 378 len. 5]: Yes , by heavens !
+Parsing [sent. 379 len. 8]: I make out sixteen , all told .
+Parsing [sent. 380 len. 10]: Never mind , it shall be a stiff one .
+Parsing [sent. 381 len. 26]: Boy , bring the kettle , and mind you do n't pour the hot water into my shoes , as you did the other night .
+Parsing [sent. 382 len. 6]: There , that will do .
+Parsing [sent. 383 len. 14]: Now , Tomkins , fill up yours ; and you , Mr Smith .
+Parsing [sent. 384 len. 42]: Let us all start fair , and then you shall have my story -- and a very curious one it is , I can tell you , I would n't have believed it myself , if I had n't seen it .
+Parsing [sent. 385 len. 2]: Hilloa !
+Parsing [sent. 386 len. 4]: What 's this ?
+Parsing [sent. 387 len. 3]: Confound it !
+Parsing [sent. 388 len. 8]: What 's the matter with the toddy ?
+Parsing [sent. 389 len. 6]: Heh , Mr Tomkins ? ''
+Parsing [sent. 390 len. 41]: Mr Tomkins tasted ; but , like the lieutenant , he had made it very stiff ; and , as he had also taken largely before , he was , like him , not quite so clear in his discrimination .
+Parsing [sent. 391 len. 18]: `` It has a queer _ twang _ , sir : Smith , what is it ? ''
+Parsing [sent. 392 len. 11]: Smith took up his glass , tasted the contents . ''
+Parsing [sent. 393 len. 9]: _ Salt-water _ , '' drawled the midshipman .
+Parsing [sent. 394 len. 3]: `` Salt-water !
+Parsing [sent. 395 len. 7]: So it is by heavens ! ''
+Parsing [sent. 396 len. 4]: cried Mr Appleboy .
+Parsing [sent. 397 len. 7]: `` Salt as Lot 's wife !
+Parsing [sent. 398 len. 7]: By all that 's infamous ! ''
+Parsing [sent. 399 len. 6]: cried the master 's mate .
+Parsing [sent. 400 len. 6]: `` Salt-water , sir ! ''
+Parsing [sent. 401 len. 15]: cried Jem in a fright , expecting a _ salt _ eel for supper .
+Parsing [sent. 402 len. 25]: `` Yes , sir , '' replied Mr Appleboy , tossing the contents of the tumbler in the boy 's face , `` salt-water .
+Parsing [sent. 403 len. 10]: Very well , sir , -- very well ! ''
+Parsing [sent. 404 len. 19]: `` It war n't me , sir , '' replied the boy , making up a piteous look .
+Parsing [sent. 405 len. 14]: `` No , sir , but you said the cook was sober . ''
+Parsing [sent. 406 len. 17]: `` He was not so _ very _ much disguised , sir , '' replied Jem .
+Parsing [sent. 407 len. 3]: `` Oh !
+Parsing [sent. 408 len. 6]: Very well -- never mind .
+Parsing [sent. 409 len. 25]: Mr Tomkins , in case I should forget it , do me the favour to put the kettle of salt-water down in the report .
+Parsing [sent. 410 len. 3]: The scoundrel !
+Parsing [sent. 411 len. 18]: I 'm very sorry , gentlemen , but there 's no means of having any more gin-toddy .
+Parsing [sent. 412 len. 11]: But never mind , we 'll see to this to-morrow .
+Parsing [sent. 413 len. 36]: Two can play at this ; and if I do n't salt-water their grog , and make them drink it too , I have been twenty years a first-lieutenant for nothing , that 's all .
+Parsing [sent. 414 len. 35]: Good night , gentlemen ; and , '' continued the lieutenant , in a severe tone , `` you 'll keep a sharp look-out , Mr Smith -- do you hear , sir ? ''
+Parsing [sent. 415 len. 32]: `` Yes , '' drawled Smith , `` but it 's not my watch : it was my first watch : and , just now , it struck one bell . ''
+Parsing [sent. 416 len. 42]: `` You 'll keep the middle watch , then , Mr Smith , '' said Mr Appleboy , who was not a little put out ; `` and , Mr Tomkins , let me know as soon as it 's daylight .
+Parsing [sent. 417 len. 7]: Boy , get my bed made .
+Parsing [sent. 418 len. 8]: Salt-water , by all that 's blue !
+Parsing [sent. 419 len. 11]: However , we 'll see to that to-morrow morning . ''
+Parsing [sent. 420 len. 40]: Mr Appleboy then turned in ; so did Mr Tomkins ; and so did Mr Smith , who had no idea of keeping the middle watch because the cook was drunk and had filled up the kettle with salt-water .
+Parsing [sent. 421 len. 37]: As for what happened in ninety-three or ninety-four , I really would inform the reader if I knew ; but I am afraid that that most curious story is never to be handed down to posterity .
+Parsing [sent. 422 len. 39]: The next morning Mr Tomkins , as usual , forgot to report the cook , the jar of butter and the kettle of salt-water ; and Mr Appleboy 's wrath had long been appeased before he remembered them .
+Parsing [sent. 423 len. 29]: At daylight , the lieutenant came on deck , having only slept away half of the sixteen , and a taste of the seventeenth salt-water glass of gin-toddy .
+Parsing [sent. 424 len. 32]: He rubbed his grey eyes , that he might peer through the grey of the morning ; the fresh breeze blew about his grizzly locks , and cooled his rubicund nose .
+Parsing [sent. 425 len. 33]: The revenue-cutter , whose name was the _ Active _ , cast off from the buoy , and , with a fresh breeze , steered her course for the Needles ' passage .
+Parsing [sent. 426 len. 3]: CHAPTER THREE .
+Parsing [sent. 427 len. 4]: CUTTER THE THIRD .
+Parsing [sent. 428 len. 2]: Reader !
+Parsing [sent. 429 len. 7]: Have you been to Saint Malo ?
+Parsing [sent. 430 len. 44]: If you have , you were glad enough to leave the hole ; and if you have not , take my advice , and do not give yourself the trouble to go and see that or any other French port in the Channel .
+Parsing [sent. 431 len. 8]: There is not one worth looking at .
+Parsing [sent. 432 len. 25]: They have made one or two artificial ports , and they are no great things ; there is no getting out or getting in .
+Parsing [sent. 433 len. 40]: In fact , they have no harbours in the Channel , while we have the finest in the world ; a peculiar dispensation of Providence , because it knew that we should want them , and France would not .
+Parsing [sent. 434 len. 65]: In France , what are called ports are all alike , -- nasty , narrow holes , only to be entered at certain times of tide and certain winds ; made up of basins and backwaters , custom-houses , and cabarets ; just fit for smugglers to run into , and nothing more ; and , therefore they are used for very little else .
+Parsing [sent. 435 len. 22]: Now , in the dog-hole called Saint Malo there is some pretty land , although a great deficiency of marine scenery .
+Parsing [sent. 436 len. 5]: But never mind that .
+Parsing [sent. 437 len. 62]: Stay at home , and do n't go abroad to drink sour wine , because they call it Bordeaux , and eat villainous trash , so disguised by cooking that you can not possibly tell which of the birds of the air , or beasts of the field , or fishes of the sea , you are cramming down your throat .
+Parsing [sent. 438 len. 42]: `` If all is right , there is no occasion for disguise , '' is an old saying ; so depend upon it that there is something wrong , and that you are eating offal , under a grand French name .
+Parsing [sent. 439 len. 67]: They eat everything in France , and would serve you up the head of a monkey who has died of the smallpox , as _ singe a la petite verole _ -- that is , if you did not understand French ; if you did , they would call it , _ tete d'amour a l'Ethiopique _ , and then you would be even more puzzled .
+Parsing [sent. 440 len. 17]: As for their wine , there is no disguise in that ; it 's half vinegar .
+Parsing [sent. 441 len. 4]: No , no !
+Parsing [sent. 442 len. 54]: Stay at home ; you can live just as cheaply , if you choose ; and then you will have good meat , good vegetables , good ale , good beer , and a good glass of grog ; and , what is of more importance , you will be in good company .
+Parsing [sent. 443 len. 14]: Live with your friends , and do n't make a fool of yourself .
+Parsing [sent. 444 len. 40]: I would not have condescended to have noticed this place , had it not been that I wish you to observe a vessel which is lying along the pier-wharf , with a plank from the shore to her gunwale .
+Parsing [sent. 445 len. 35]: It is low water , and she is aground , and the plank dips down at such an angle that it is a work of danger to go either in or out of her .
+Parsing [sent. 446 len. 11]: You observe that there is nothing very remarkable in her .
+Parsing [sent. 447 len. 17]: She is a cutter , and a good sea-boat , and sails well before the wind .
+Parsing [sent. 448 len. 14]: She is short for her breadth of beam , and is not armed .
+Parsing [sent. 449 len. 23]: Smugglers do not arm now -- the service is too dangerous ; they effect their purpose by cunning , not by force .
+Parsing [sent. 450 len. 24]: Nevertheless , it requires that smugglers should be good seamen , smart active fellows , and keen-witted , or they can do nothing .
+Parsing [sent. 451 len. 15]: This vessel has not a large cargo in her , but it is valuable .
+Parsing [sent. 452 len. 39]: She has some thousand yards of lace , a few hundred pounds of tea , a few bales of silk , and about forty ankers of brandy -- just as much as they can land in one boat .
+Parsing [sent. 453 len. 20]: All they ask is a heavy gale or a thick fog , and they trust to themselves for success .
+Parsing [sent. 454 len. 41]: There is nobody on board except a boy ; the crew are all up at the cabaret , settling their little accounts of every description -- for they smuggle both ways , and every man has his own private venture .
+Parsing [sent. 455 len. 21]: There they are all , fifteen of them , and fine-looking fellows , too , sitting at that long table .
+Parsing [sent. 456 len. 16]: They are very merry , but quite sober , as they are to sail to-night .
+Parsing [sent. 457 len. 38]: The captain of the vessel -LRB- whose name , by-the-bye , is the _ Happy-go-lucky _ , -- the captain christened her himself -RRB- is that fine-looking young man , with dark whiskers meeting under his throat .
+Parsing [sent. 458 len. 6]: His name is Jack Pickersgill .
+Parsing [sent. 459 len. 15]: You perceive at once that he is much above a common sailor in appearance .
+Parsing [sent. 460 len. 21]: His manners are good , he is remarkably handsome , very clean , and rather a dandy in his dress .
+Parsing [sent. 461 len. 30]: Observe how very politely he takes off his hat to that Frenchman , with whom he had just settled accounts ; he beats Johnny Crapeau at his own weapons .
+Parsing [sent. 462 len. 42]: And then there is an air of command , a feeling of conscious superiority , about Jack ; see how he treats the landlord , _ de haut en bas _ , at the same time that he is very civil .
+Parsing [sent. 463 len. 69]: The fact is , that Jack is of a very good , old family , and received a very excellent education ; but he was an orphan , his friends were poor , and could do but little for him : he went out to India as a cadet , ran away , and served in a schooner which smuggled opium into China , and then came home .
+Parsing [sent. 464 len. 74]: He took a liking to the employment , and is now laying up a very pretty little sum : not that he intends to stop : no , as soon as he has enough to fit out a vessel for himself , he intends to start again for India , and with two cargoes of opium he will return , he trusts , with a handsome fortune , and re-assume his family name .
+Parsing [sent. 465 len. 34]: Such are Jack 's intentions ; and , as he eventually means to reappear as a gentleman , he preserves his gentlemanly habits : he neither drinks , nor chews , nor smokes .
+Parsing [sent. 466 len. 35]: He keeps his hands clean , wears rings , and sports a gold snuff-box ; notwithstanding which , Jack is one of the boldest and best of sailors , and the men know it .
+Parsing [sent. 467 len. 13]: He is full of fun , and as keen as a razor .
+Parsing [sent. 468 len. 33]: Jack has a very heavy venture this time -- all the lace is his own speculation , and if he gets it in safe , he will clear some thousands of pounds .
+Parsing [sent. 469 len. 17]: A certain fashionable shop in London has already agreed to take the whole off his hands .
+Parsing [sent. 470 len. 19]: That short , neatly-made young man is the second in command , and the companion of the captain .
+Parsing [sent. 471 len. 28]: He is clever , and always has a remedy to propose when there is a difficulty , which is a great quality in a second in command .
+Parsing [sent. 472 len. 5]: His name is Corbett .
+Parsing [sent. 473 len. 36]: He is always merry -- half-sailor , half-tradesman ; knows the markets , runs up to London , and does business as well as a chapman -- lives for the day and laughs at to-morrow .
+Parsing [sent. 474 len. 30]: That little punchy old man , with long grey hair and fat face , with a nose like a note of interrogation , is the next personage of importance .
+Parsing [sent. 475 len. 28]: He ought to be called the sailing-master , for , although he goes on shore in France , off the English coast he never quits the vessel .
+Parsing [sent. 476 len. 81]: When they leave her with the goods , he remains on board ; he is always to be found off any part of the coast where he may be ordered ; holding his position in defiance of gales , and tides , and fogs ; as for the revenue-vessels , they all know him well enough , but they can not touch a vessel in ballast , if she has no more men on board than allowed by her tonnage .
+Parsing [sent. 477 len. 29]: He knows every creek , and hole , and corner of the coast ; how the tide runs in -- tide , half-tide , eddy , or current .
+Parsing [sent. 478 len. 5]: That is his value .
+Parsing [sent. 479 len. 5]: His name is Morrison .
+Parsing [sent. 480 len. 33]: You observe that Jack Pickersgill has two excellent supporters in Corbett and Morrison ; his other men are good seamen , active , and obedient , which is all that he requires .
+Parsing [sent. 481 len. 7]: I shall not particularly introduce them .
+Parsing [sent. 482 len. 47]: `` Now you may call for another _ litre _ , my lads , and that , must be the last ; the tide is flowing fast , and we shall be afloat in half an hour , and we have just the breeze we want .
+Parsing [sent. 483 len. 12]: What d'ye think , Morrison , shall we have dirt ? ''
+Parsing [sent. 484 len. 33]: `` I 've been looking just now , and if it were any other month in the year I should say , yes ; but there 's no trusting April , captain .
+Parsing [sent. 485 len. 20]: Howsomever , if it does blow off , I 'll promise you a fog in three hours afterwards . ''
+Parsing [sent. 486 len. 7]: `` That will do as well .
+Parsing [sent. 487 len. 9]: Corbett , have you settled with Duval ? ''
+Parsing [sent. 488 len. 22]: `` Yes , after more noise and _ charivari _ than a panic in the Stock Exchange would make in England .
+Parsing [sent. 489 len. 26]: He fought and squabbled for an hour , and I found that , without some abatement , I never should have settled the affair . ''
+Parsing [sent. 490 len. 9]: `` What did you let him off ? ''
+Parsing [sent. 491 len. 10]: `` Seventeen sous , '' replied Corbett , laughing .
+Parsing [sent. 492 len. 7]: `` And that satisfied him ? ''
+Parsing [sent. 493 len. 3]: inquired Pickersgill .
+Parsing [sent. 494 len. 25]: `` Yes -- it was all he could prove to be a _ surfaire _ : two of the knives were a little rusty .
+Parsing [sent. 495 len. 16]: But he will always have something off ; he could not be happy without it .
+Parsing [sent. 496 len. 19]: I really think he would commit suicide if he had to pay a bill without a deduction . ''
+Parsing [sent. 497 len. 9]: `` Let him live , '' replied Pickersgill .
+Parsing [sent. 498 len. 15]: `` Jeannette , a bottle of Volnay of 1811 , and three glasses . ''
+Parsing [sent. 499 len. 33]: Jeannette , who was the _ fille de cabaret _ , soon appeared with a bottle of wine , seldom called for , except by the captain of the _ Happy-go-lucky _ .
+Parsing [sent. 500 len. 6]: `` You sail to-night ? ''
+Parsing [sent. 501 len. 11]: said she , as she placed the bottle before him .
+Parsing [sent. 502 len. 5]: Pickersgill nodded his head .
+Parsing [sent. 503 len. 30]: `` I had a strange dream , '' said Jeannette ; `` I thought you were all taken by a revenue-cutter , and put in a _ cachot _ .
+Parsing [sent. 504 len. 22]: I went to see you , and I did not know one of you again -- you were all changed . ''
+Parsing [sent. 505 len. 23]: `` Very likely , Jeannette ; you would not be the first who did not know their friends again when in misfortune .
+Parsing [sent. 506 len. 10]: There was nothing strange in your dream . '' ''
+Parsing [sent. 507 len. 6]: _ Mais , mon Dieu !
+Parsing [sent. 508 len. 11]: Je ne suis pas comme ca , moi _ . ''
+Parsing [sent. 509 len. 32]: `` No , that you are not , Jeannette ; you are a good girl , and some of these fine days I 'll marry you , '' said Corbett . ''
+Parsing [sent. 510 len. 38]: _ Doit etre bien beau ce jour la , par exemple _ , '' replied Jeannette , laughing ; `` you have promised to marry me every time you have come in these last three years . ''
+Parsing [sent. 511 len. 14]: `` Well , that proves I keep to my promise , anyhow . ''
+Parsing [sent. 512 len. 11]: `` Yes ; but you never go any further . ''
+Parsing [sent. 513 len. 47]: `` I ca n't spare him , Jeannette , that is the real truth , '' said the captain : `` but wait a little , -- in the meantime , here is a five-franc piece to add to your _ petite fortune _ . '' ''
+Parsing [sent. 514 len. 13]: _ Merci bien , monsieur le capitaine ; bon voyage _ ! ''
+Parsing [sent. 515 len. 20]: Jeannette held her finger up to Corbett , saying , with a smile , '' _ mechant _ ! ''
+Parsing [sent. 516 len. 6]: and then quitted the room .
+Parsing [sent. 517 len. 22]: `` Come , Morrison , help us to empty this bottle , and then we will all go on board . ''
+Parsing [sent. 518 len. 29]: `` I wish that girl would n't come here with her nonsensical dreams , '' said Morrison , taking his seat ; `` I do n't like it .
+Parsing [sent. 519 len. 78]: When she said that we should be taken by a revenue-cutter , I was looking at a blue and a white pigeon sitting on the wall opposite ; and I said to myself , Now , if that be a warning , I will see : if the _ blue _ pigeon flies away first , I shall be in jail in a week ; if the _ white _ , I shall be back here . ''
+Parsing [sent. 520 len. 4]: `` Well ? ''
+Parsing [sent. 521 len. 5]: said Pickersgill , laughing .
+Parsing [sent. 522 len. 38]: `` It was n't well , '' answered Morrison , tossing off his wine , and putting the glass down with a deep sigh ; `` for the cursed _ blue _ pigeon flew away immediately . ''
+Parsing [sent. 523 len. 19]: `` Why , Morrison , you must have a chicken-heart to be frightened at a blue pigeon ! ''
+Parsing [sent. 524 len. 33]: said Corbett , laughing and looking out of the window ; `` at all events , he has come back again , and there he is sitting by the white one . ''
+Parsing [sent. 525 len. 20]: `` It 's the first time that ever I was called chicken-hearted , '' replied Morrison , in wrath .
+Parsing [sent. 526 len. 21]: `` Nor do you deserve it , Morrison , '' replied Pickersgill ; `` but Corbett is only joking . ''
+Parsing [sent. 527 len. 43]: `` Well , at all events , I 'll try my luck in the same way , and see whether I am to be in jail : I shall take the blue pigeon as my bad omen , as you did . ''
+Parsing [sent. 528 len. 25]: The sailors and Captain Pickersgill all rose and went to the window , to ascertain Corbett 's fortune by this new species of augury .
+Parsing [sent. 529 len. 37]: The blue pigeon flapped his wings , and then he sidled up to the white one ; at last , the white pigeon flew off the wall and settled on the roof of the adjacent house .
+Parsing [sent. 530 len. 7]: `` Bravo , white pigeon ! ''
+Parsing [sent. 531 len. 14]: said Corbett ; `` I shall be here again in a week . ''
+Parsing [sent. 532 len. 18]: The whole party , laughing , then resumed their seats ; and Morrison 's countenance brightened up .
+Parsing [sent. 533 len. 48]: As he took the glass of wine poured out by Pickersgill , he said , `` Here 's your health , Corbett ; it was all nonsense , after all -- for , d'ye see , I ca n't be put in jail , without you are .
+Parsing [sent. 534 len. 33]: We all sail in the same boat , and when you leave me you take with you everything that can condemn the vessel -- so here 's success to our trip . ''
+Parsing [sent. 535 len. 30]: `` We will all drink that toast , my lads , and then on board , '' said the captain ; `` here 's success to our trip . ''
+Parsing [sent. 536 len. 48]: The captain rose , as did the mates and men , drank the toast , turned down the drinking-vessels on the table , hastened to the wharf , and , in half an hour , the _ Happy-go-lucky _ was clear of the port of Saint Malo .
+Parsing [sent. 537 len. 3]: CHAPTER FOUR .
+Parsing [sent. 538 len. 3]: PORTLAND BILL .
+Parsing [sent. 539 len. 29]: The _ Happy-go-lucky _ sailed with a fresh breeze and a flowing sheet from Saint Malo , the evening before the _ Arrow _ sailed from Barn Pool .
+Parsing [sent. 540 len. 11]: The _ Active _ sailed from Portsmouth the morning after .
+Parsing [sent. 541 len. 19]: The yacht , as we before observed , was bound to Cowes , in the Isle of Wight .
+Parsing [sent. 542 len. 37]: The _ Active _ had orders to cruise wherever she pleased within the limits of the admiral 's station ; and she ran for West Bay , on the other side of the Bill of Portland .
+Parsing [sent. 543 len. 15]: The _ Happy-go-lucky _ was also bound for that bay to land her cargo .
+Parsing [sent. 544 len. 48]: The wind was light , and there was every appearance of fine weather , when the _ Happy-go-lucky _ , at ten o'clock on the Tuesday night , made the Portland lights ; as it was impossible to run her cargo that night , she hove to .
+Parsing [sent. 545 len. 15]: At eleven o'clock the Portland lights were made by the revenue-cutter _ Active _ .
+Parsing [sent. 546 len. 30]: Mr Appleboy went up to have a look at them , ordered the cutter to be hove to , and then went down to finish his allowance of gin-toddy .
+Parsing [sent. 547 len. 25]: At twelve o'clock , the yacht _ Arrow _ made the Portland lights , and continued her course , hardly stemming the ebb tide .
+Parsing [sent. 548 len. 9]: Day broke , and the horizon was clear .
+Parsing [sent. 549 len. 34]: The first on the look-out were , of course , the smugglers ; they , and those on board the revenue-cutter , were the only two interested parties -- the yacht was neuter .
+Parsing [sent. 550 len. 41]: `` There are two cutters in sight , sir , '' said Corbett , who had the watch ; for Pickersgill , having been up the whole night , had thrown himself down on the bed with his clothes on .
+Parsing [sent. 551 len. 8]: `` What do they look like ? ''
+Parsing [sent. 552 len. 10]: said Pickersgill , who was up in a moment .
+Parsing [sent. 553 len. 37]: `` One is a yacht , and the other may be ; but I rather think , as far as I can judge in the grey , that it is our old friend off here . ''
+Parsing [sent. 554 len. 3]: `` What !
+Parsing [sent. 555 len. 4]: Old Appleboy ? ''
+Parsing [sent. 556 len. 17]: `` Yes , it looks like him ; but the day has scarcely broke yet . ''
+Parsing [sent. 557 len. 36]: `` Well , he can do nothing in a light wind like this ; and before the wind we can show him our heels : but are you sure the other is a yacht ? ''
+Parsing [sent. 558 len. 7]: said Pickersgill , coming on deck .
+Parsing [sent. 559 len. 13]: `` Yes ; the king is more careful of his canvas . ''
+Parsing [sent. 560 len. 40]: `` You 're right , '' said Pickersgill , `` that is a yacht ; and you 're right there again in your guess -- that is the stupid old _ Active _ which creeps about creeping for tubs .
+Parsing [sent. 561 len. 45]: Well , I see nothing to alarm us at present , provided it do n't fall a dead calm , and then we must take to our boats as soon as he takes to his ; we are four miles from him at least .
+Parsing [sent. 562 len. 14]: Watch his motions , Corbett , and see if he lowers a boat .
+Parsing [sent. 563 len. 6]: What does she go now ?
+Parsing [sent. 564 len. 3]: Four knots ?
+Parsing [sent. 565 len. 9]: -- that will soon tire their men . ''
+Parsing [sent. 566 len. 29]: The positions of the three cutters were as follows : -- The _ Happy-go-lucky _ was about four miles off Portland Head , and well into West Bay .
+Parsing [sent. 567 len. 8]: The revenue-cutter was close to the Head .
+Parsing [sent. 568 len. 25]: The yacht was outside of the smuggler , about two miles to the westward , and about five or six miles from the revenue-cutter .
+Parsing [sent. 569 len. 22]: `` Two vessels in sight , sir , '' said Mr Smith , coming down into the cabin to Mr Appleboy .
+Parsing [sent. 570 len. 22]: `` Very well , '' replied the lieutenant , who was _ lying _ down in his _ standing _ bed-place .
+Parsing [sent. 571 len. 17]: `` The people say one is the _ Happy-go-lucky _ , sir , '' drawled Smith .
+Parsing [sent. 572 len. 3]: `` Heh ?
+Parsing [sent. 573 len. 2]: What !
+Parsing [sent. 574 len. 4]: _ Happy-go-lucky _ ?
+Parsing [sent. 575 len. 15]: Yes , I recollect ; I 've boarded her twenty times -- always empty .
+Parsing [sent. 576 len. 6]: How 's she standing ? ''
+Parsing [sent. 577 len. 26]: `` She stands to the westward now , sir ; but she was hove to , they say , when they first saw her . ''
+Parsing [sent. 578 len. 23]: `` Then she has a cargo in her , '' and Mr Appleboy shaved himself , dressed , and went on deck .
+Parsing [sent. 579 len. 30]: `` Yes , '' said the lieutenant , rubbing his eyes again and again , and then looking through the glass , `` it is her , sure enough .
+Parsing [sent. 580 len. 7]: Let draw the foresheet-hands make sail .
+Parsing [sent. 581 len. 7]: What vessel 's the other ? ''
+Parsing [sent. 582 len. 14]: `` Do n't know , sir , -- she 's a cutter . ''
+Parsing [sent. 583 len. 4]: `` A cutter ?
+Parsing [sent. 584 len. 18]: Yes , may be a yacht , or may be the new cutter ordered on the station .
+Parsing [sent. 585 len. 39]: Make all sail , Mr Tomkins : hoist our pendant , and fire a gun -- they will understand what we mean then ; they do n't know the _ Happy-go-lucky _ as well as we do . ''
+Parsing [sent. 586 len. 25]: In a few minutes the _ Active _ was under a press of sail ; she hoisted her pendant , and fired a gun .
+Parsing [sent. 587 len. 28]: The smuggler perceived that the _ Active _ had recognised her , and she also threw out more canvas , and ran off more to the westward .
+Parsing [sent. 588 len. 24]: `` There 's a gun , sir , '' reported one of the men to Mr Stewart , on board of the yacht .
+Parsing [sent. 589 len. 25]: `` Yes ; give me the glass -- a revenue-cutter ; then this vessel in shore running towards us must be a smuggler . ''
+Parsing [sent. 590 len. 12]: `` She has just now made all sail , sir . ''
+Parsing [sent. 591 len. 10]: `` Yes , there 's no doubt of it .
+Parsing [sent. 592 len. 15]: I will go down to his lordship ; keep her as she goes . ''
+Parsing [sent. 593 len. 14]: Mr Stewart then went down to inform Lord B -- of the circumstance .
+Parsing [sent. 594 len. 42]: Not only Lord B -- but most of the gentlemen came on deck ; as did soon afterwards the ladies , who had received the intelligence from Lord B -- , who spoke to them through the door of the cabin .
+Parsing [sent. 595 len. 15]: But the smuggler had more wind than the revenue-cutter , and increased her distance .
+Parsing [sent. 596 len. 34]: `` If we were to wear round , my lord , '' observed Mr Stewart , `` she is just abreast of us and in shore , we could prevent her escape . ''
+Parsing [sent. 597 len. 26]: `` Round with her , Mr Stewart , '' said Lord B -- ; `` we must do our duty and protect the laws . ''
+Parsing [sent. 598 len. 39]: `` That will not be fair , papa , '' said Cecilia Ossulton ; `` we have no quarrel with the smuggler : I 'm sure the ladies have not , for they bring us beautiful things . ''
+Parsing [sent. 599 len. 22]: `` Miss Ossulton , '' observed her aunt , `` it is not proper for you to offer an opinion . ''
+Parsing [sent. 600 len. 32]: The yacht wore round , and , sailing so fast , the smuggler had little chance of escaping her ; but to chase is one thing -- to capture , another .
+Parsing [sent. 601 len. 29]: `` Let us give her a gun , '' said Lord B -- , `` that will frighten her ; and he dare not cross our hawse . ''
+Parsing [sent. 602 len. 27]: The gun was loaded , and not being more than a mile from the smuggler , actually threw the ball almost a quarter of the way .
+Parsing [sent. 603 len. 33]: The gentlemen , as well as Lord B -- , were equally excited by the ardour of pursuit ; but the wind died away , and at last it was nearly calm .
+Parsing [sent. 604 len. 12]: The revenue-cutter 's boats were out , and coming up fast .
+Parsing [sent. 605 len. 27]: `` Let us get our boat out , Stewart , '' said his lordship , `` and help them ; it is quite calm now . ''
+Parsing [sent. 606 len. 27]: The boat was soon out : it was a very large one , usually stowed on , and occupying a large portion of , the deck .
+Parsing [sent. 607 len. 23]: It pulled six oars ; and when it was manned , Mr Stewart jumped in , and Lord B -- followed him .
+Parsing [sent. 608 len. 12]: `` But you have no arms , '' said Mr Hautaine .
+Parsing [sent. 609 len. 11]: `` The smugglers never resist now , '' observed Stewart .
+Parsing [sent. 610 len. 25]: `` Then you are going on a very gallant expedition , indeed , '' observed Cecilia Ossulton ; `` I wish you joy . ''
+Parsing [sent. 611 len. 12]: But Lord B -- was too much excited to pay attention .
+Parsing [sent. 612 len. 10]: They shoved off , and pulled towards the smuggler .
+Parsing [sent. 613 len. 31]: At this time the revenue boats were about five miles astern of the _ Happy-go-lucky _ , and the yacht about three-quarters of a mile from her in the offing .
+Parsing [sent. 614 len. 31]: Pickersgill had , of course , observed the motions of the yacht ; had seen her wear on chase , hoist her ensign and pendant , and fire her gun .
+Parsing [sent. 615 len. 14]: `` Well , '' said he , `` this is the blackest ingratitude !
+Parsing [sent. 616 len. 12]: To be attacked by the very people whom we smuggle for !
+Parsing [sent. 617 len. 34]: I only wish she may come up with us ; and , let her attempt to interfere , she shall rue the day : I do n't much like this , though . ''
+Parsing [sent. 618 len. 18]: As we before observed , it fell nearly calm , and the revenue boats were in chase .
+Parsing [sent. 619 len. 8]: Pickersgill watched them as they came up .
+Parsing [sent. 620 len. 7]: `` What shall we do ? ''
+Parsing [sent. 621 len. 11]: said Corbett , -- `` get the boat out ? ''
+Parsing [sent. 622 len. 57]: `` Yes , '' replied Pickersgill , `` we will get the boat out , and have the goods in her all ready ; but we can pull faster than they do , in the first place ; and , in the next , they will be pretty well tired before they come up to us .
+Parsing [sent. 623 len. 27]: We are fresh , and shall soon walk away from them ; so I shall not leave the vessel till they are within half a mile .
+Parsing [sent. 624 len. 25]: We must sink the ankers , that they may not seize the vessel , for it is not worth while taking them with us .
+Parsing [sent. 625 len. 23]: Pass them along , ready to run them over the bows , that they may not see us and swear to it .
+Parsing [sent. 626 len. 12]: But we have a good half hour , and more . ''
+Parsing [sent. 627 len. 50]: `` Ay , and you may hold all fast if you choose , '' said Morrison , `` although it 's better to be on the right side and get ready ; otherwise , before half an hour , I 'll swear that we are out of their sight .
+Parsing [sent. 628 len. 32]: Look there , '' said he , pointing to the eastward at a heavy bank , `` it 's coming right down upon us , as I said it would . ''
+Parsing [sent. 629 len. 30]: `` True enough ; but still there is no saying which will come first , Morrison , the boats or the fog ; so we must be prepared . ''
+Parsing [sent. 630 len. 3]: `` Hilloa !
+Parsing [sent. 631 len. 4]: What 's this ?
+Parsing [sent. 632 len. 12]: Why , there 's a boat coming from the yacht ! ''
+Parsing [sent. 633 len. 6]: Pickersgill took out his glass .
+Parsing [sent. 634 len. 17]: `` Yes , and the yacht 's own boat with the name painted on her bows .
+Parsing [sent. 635 len. 30]: Well , let them come -- we will have no ceremony in resisting them ; they are not in the Act of Parliament , and must take the consequences .
+Parsing [sent. 636 len. 6]: We have nought to fear .
+Parsing [sent. 637 len. 32]: Get stretchers , my lads , and hand-spikes ; they row six oars , and are three in the stern-sheets : they must be good men if they take us . ''
+Parsing [sent. 638 len. 13]: In a few minutes Lord B -- was close to the smuggler .
+Parsing [sent. 639 len. 4]: `` Boat ahoy !
+Parsing [sent. 640 len. 6]: What do you want ? ''
+Parsing [sent. 641 len. 9]: `` Surrender in the king 's name . ''
+Parsing [sent. 642 len. 15]: `` To what , and to whom , and what are we to surrender ?
+Parsing [sent. 643 len. 10]: We are an English vessel coasting along shore . ''
+Parsing [sent. 644 len. 25]: `` Pull on board , my lads , '' cried Stewart ; `` I am a king 's officer : we know her . ''
+Parsing [sent. 645 len. 22]: The boat darted alongside , and Stewart and Lord B -- , followed by the men , jumped on the deck .
+Parsing [sent. 646 len. 11]: `` Well , gentlemen , what do you want ? ''
+Parsing [sent. 647 len. 3]: said Pickersgill .
+Parsing [sent. 648 len. 5]: `` We seize you !
+Parsing [sent. 649 len. 24]: You are a smuggler , -- there 's no denying it : look at the casks of spirits stretched along the deck . ''
+Parsing [sent. 650 len. 22]: `` We never said that we were not smugglers , '' replied Pickersgill ; `` but what is that to you ?
+Parsing [sent. 651 len. 15]: You are not a king 's ship , or employed by the revenue . ''
+Parsing [sent. 652 len. 20]: `` No ; but we carry a pendant , and it is our duty to protect the laws . ''
+Parsing [sent. 653 len. 7]: `` And who are you ? ''
+Parsing [sent. 654 len. 3]: said Pickersgill .
+Parsing [sent. 655 len. 8]: `` I am Lord B -- . ''
+Parsing [sent. 656 len. 41]: `` Then , my lord , allow me to say that you would do much better to attend to the framing of laws , and leave people of less consequence , like those astern of me , to execute them .
+Parsing [sent. 657 len. 12]: ` Mind your own business , ' is an old adage .
+Parsing [sent. 658 len. 29]: We shall not hurt you , my lord , as you have only employed words , but we shall put it out of your power to hurt us .
+Parsing [sent. 659 len. 6]: Come aft , my lads .
+Parsing [sent. 660 len. 23]: Now , my lord , resistance is useless ; we are double your numbers , and you have caught a Tartar . ''
+Parsing [sent. 661 len. 15]: Lord B -- and Mr Stewart perceived that they were in an awkward predicament .
+Parsing [sent. 662 len. 25]: `` You may do what you please , '' observed Mr Stewart , `` but the revenue boats are coming up , recollect . ''
+Parsing [sent. 663 len. 13]: `` Look you , sir , do you see the revenue-cutter ? ''
+Parsing [sent. 664 len. 3]: said Pickersgill .
+Parsing [sent. 665 len. 15]: Stewart looked in that direction and saw that she was hidden in the fog .
+Parsing [sent. 666 len. 31]: `` In five minutes , sir , the boats will be out of sight also , and so will your vessel ; we have nothing to fear from them . ''
+Parsing [sent. 667 len. 23]: `` Indeed , my lord , we had better return , '' said Mr Stewart , who perceived that Pickersgill was right .
+Parsing [sent. 668 len. 20]: `` I beg your pardon , you will not go on board your yacht so soon as you expect .
+Parsing [sent. 669 len. 33]: Take the oars out of the boat ; my lads , two or three of you , and throw in a couple of our paddles for them to reach the shore with .
+Parsing [sent. 670 len. 14]: The rest of you knock down the first man who offers to resist .
+Parsing [sent. 671 len. 23]: You are not aware , perhaps , my lord , that you have attempted _ piracy _ on the high seas ? ''
+Parsing [sent. 672 len. 7]: Stewart looked at Lord B -- .
+Parsing [sent. 673 len. 5]: It was true enough .
+Parsing [sent. 674 len. 25]: The men of the yacht could offer no resistance ; the oars were taken out of the boat and the men put in again .
+Parsing [sent. 675 len. 32]: `` My lord , '' said Pickersgill , `` your boat is manned , do me the favour to step into it ; and you , sir , do the same .
+Parsing [sent. 676 len. 26]: I should be sorry to lay my hands upon a peer of the realm , or a king 's officer even on half pay . ''
+Parsing [sent. 677 len. 21]: Remonstrance was vain ; his lordship was led to the boat by two of the smugglers , and Stewart followed .
+Parsing [sent. 678 len. 36]: `` I will leave your oars , my lord , at the Weymouth Custom-house , and I trust this will be a lesson to you in future to ` mind your own business . ' ''
+Parsing [sent. 679 len. 48]: The boat was shoved off from the sloop by the smugglers , and was soon lost sight of in the fog , which had now covered the revenue boats as well as the yacht , at the same time it brought down a breeze from the eastward .
+Parsing [sent. 680 len. 48]: `` Haul to the wind , Morrison , '' said Pickersgill , `` we will stand out to get rid of the boats ; if they pull on they will take it for granted that we shall run into the bay , as will the revenue-cutter . ''
+Parsing [sent. 681 len. 24]: Pickersgill and Corbett were in conversation abaft for a short time , when the former desired the course to be altered two points .
+Parsing [sent. 682 len. 30]: `` Keep silence all of you , my lads , and let me know if you hear a gun or a bell from the yacht , '' said Pickersgill .
+Parsing [sent. 683 len. 27]: `` There is a gun , sir , close to us , '' said one of the men ; `` the sound was right ahead . ''
+Parsing [sent. 684 len. 11]: `` That will do , keep her as she goes .
+Parsing [sent. 685 len. 43]: Aft here , my lads ; we can not run our cargo in the bay , for the cutter has been seen to chase us , and they will all be on the look-out at the preventive stations for us on shore .
+Parsing [sent. 686 len. 36]: Now , my lads , I have made up my mind that , as these yacht gentlemen have thought proper to interfere , that I will take possession of the yacht for a few days .
+Parsing [sent. 687 len. 19]: We shall then outsail everything , go where we like unsuspected , and land our cargo with ease .
+Parsing [sent. 688 len. 32]: I shall run alongside of her -- she can have but few hands on board ; and mind , do not hurt anybody , but be civil and obey my orders .
+Parsing [sent. 689 len. 31]: Morrison , you and your four men and the boy will remain on board as before , and take the vessel to Cherbourg , where we will join you . ''
+Parsing [sent. 690 len. 12]: In a short time another gun was fired from the yacht .
+Parsing [sent. 691 len. 28]: Those on board , particularly the ladies , were alarmed ; the fog was very thick , and they could not distinguish the length of the vessel .
+Parsing [sent. 692 len. 27]: They had seen the boat board , but had not seen her turned adrift without oars , as the fog came on just at that time .
+Parsing [sent. 693 len. 26]: The yacht was left with only three seamen on board , and should it come on bad weather , they were in an awkward predicament .
+Parsing [sent. 694 len. 24]: Mr Hautaine had taken the command , and ordered the guns to be fired that the boat might be enabled to find them .
+Parsing [sent. 695 len. 21]: The fourth gun was loading , when they perceived the smuggler 's cutter close to them looming through the fog .
+Parsing [sent. 696 len. 21]: `` Here they are , '' cried the seamen ; `` and they have brought the prize along with them !
+Parsing [sent. 697 len. 9]: Three cheers for the _ Arrow _ ! ''
+Parsing [sent. 698 len. 3]: `` Hilloa !
+Parsing [sent. 699 len. 9]: You 'll be on board of us ? ''
+Parsing [sent. 700 len. 3]: cried Hautaine .
+Parsing [sent. 701 len. 26]: `` That 's exactly what I intend to be , sir , '' replied Pickersgill , jumping on the quarter-deck , followed by his men .
+Parsing [sent. 702 len. 8]: `` Who the devil are you ? ''
+Parsing [sent. 703 len. 30]: `` That 's exactly the same question that I asked Lord B -- when he boarded us , '' replied Pickersgill , taking off his hat to the ladies .
+Parsing [sent. 704 len. 11]: `` Well , but what business have you here ? ''
+Parsing [sent. 705 len. 17]: `` Exactly the same question which I put to Lord B -- , '' replied Pickersgill .
+Parsing [sent. 706 len. 10]: `` Where is Lord B -- , sir ? ''
+Parsing [sent. 707 len. 16]: said Cecilia Ossulton , going up to the smuggler ; `` is he safe ? ''
+Parsing [sent. 708 len. 48]: `` Yes , madam , he is safe ; at least he is in his boat with all his men , and unhurt : but you must excuse me if I request you and the other ladies to go down below while I speak to these gentlemen .
+Parsing [sent. 709 len. 28]: Be under no alarm , miss , you will receive neither insult nor ill-treatment -- I have only taken possession of this vessel for the present . ''
+Parsing [sent. 710 len. 14]: `` Take possession , '' cried Hautaine , `` of a yacht . ''
+Parsing [sent. 711 len. 21]: `` Yes , sir , since the owner of the yacht thought proper to attempt to take possession of me .
+Parsing [sent. 712 len. 32]: I always thought that yachts were pleasure-vessels , sailing about for amusement , respected themselves , and not interfering with others ; but it appears that such is not the case .
+Parsing [sent. 713 len. 34]: The owner of this yacht has thought proper to break through the neutrality and commence aggression , and under such circumstances I have now , in retaliation , taken possession of her . ''
+Parsing [sent. 714 len. 15]: `` And , pray , what do you mean to do , sir ? ''
+Parsing [sent. 715 len. 11]: `` Simply for a few days to make an exchange .
+Parsing [sent. 716 len. 26]: I shall send you on board of my vessel as smugglers , while I remain here with the ladies and amuse myself with yachting . ''
+Parsing [sent. 717 len. 38]: `` Why , sir , you can not mean -- '' `` I have said , gentlemen , and that is enough ; I should be sorry to resort to violence , but I must be obeyed .
+Parsing [sent. 718 len. 37]: You have , I perceive , three seamen only left : they are not sufficient to take charge of the vessel , and Lord B -- and the others you will not meet for several days .
+Parsing [sent. 719 len. 26]: My regard for the ladies , even common humanity , points out to me that I can not leave the vessel in this crippled condition .
+Parsing [sent. 720 len. 30]: At the same time , I must have hands on board of my own , you will oblige me by going on board and taking her safely into port .
+Parsing [sent. 721 len. 12]: It is the least return you can make for my kindness .
+Parsing [sent. 722 len. 26]: In those dresses , gentlemen , you will not be able to do your duty : oblige me by shifting and putting on these . ''
+Parsing [sent. 723 len. 23]: Corbett handed a flannel shirt , a rough jacket and trousers , to Messrs. Hautaine , Ossulton , Vaughan , and Seagrove .
+Parsing [sent. 724 len. 28]: After some useless resistance they were stripped , and having put on the smugglers ' attire , they were handed on board of the _ Happy-go-lucky _ .
+Parsing [sent. 725 len. 35]: The three English seamen were also sent on board and confined below , as well as Ossulton 's servant , who was also equipped like his master , and confined below with the seamen .
+Parsing [sent. 726 len. 52]: Corbett and the men then handed up all the smuggled goods into the yacht , dropped the boat , and made it fast astern , and Morrison having received his directions , the vessels separated , Morrison running for Cherbourg , and Pickersgill steering the yacht along shore to the westward .
+Parsing [sent. 727 len. 72]: About an hour after this exchange had been effected the fog cleared up , and showed the revenue-cutter hove to for her boats , which had pulled back and were close on board of her , and the _ Happy-go-lucky _ about three miles in the offing ; Lord B -- and his boat 's crew were about four miles in shore , paddling and drifting with the tide towards Portland .
+Parsing [sent. 728 len. 43]: As soon as the boats were on board , the revenue-cutter made all sail after the smuggler , paying no attention to the yacht , and either not seeing or not caring about the boat which was drifting about in West Bay .
+Parsing [sent. 729 len. 3]: CHAPTER FIVE .
+Parsing [sent. 730 len. 3]: THE TRAVESTY .
+Parsing [sent. 731 len. 41]: `` Here we are , Corbett , and now I only wish my venture had been double , '' observed Pickersgill ; `` but I shall not allow business to absorb me wholly -- we must add a little amusement .
+Parsing [sent. 732 len. 38]: It appears to me , Corbett , that the gentleman 's clothes which lie there will fit you , and those of the good-looking fellow who was spokesman will , I am sure , suit me well .
+Parsing [sent. 733 len. 12]: Now let us dress ourselves , and then for breakfast . ''
+Parsing [sent. 734 len. 20]: Pickersgill then exchanged his clothes for those of Mr Hautaine , and Corbett fitted on those of Mr Ossulton .
+Parsing [sent. 735 len. 19]: The steward was summoned up , and he dared not disobey ; he appeared on deck , trembling .
+Parsing [sent. 736 len. 63]: `` Steward -- you will take these clothes below , '' said Pickersgill , `` and , observe , that I now command this yacht ; and during the time that I am on board you will pay me the same respect as you did Lord B -- : nay , more , you will always address me as Lord B -- .
+Parsing [sent. 737 len. 47]: You will prepare dinner and breakfast , and do your duty just as if his lordship was on board , and take care that you feed us well , for I will not allow the ladies to be entertained in a less sumptuous manner than before .
+Parsing [sent. 738 len. 50]: You will tell the cook what I say ; and now that you have heard me , take care that you obey ; if not , recollect that I have my own men here , and if I but point with my finger , _ overboard you go _ .
+Parsing [sent. 739 len. 7]: Do you perfectly comprehend me ? ''
+Parsing [sent. 740 len. 11]: `` Yes , -- sir , '' stammered the steward .
+Parsing [sent. 741 len. 7]: `` Yes , _ sir _ !
+Parsing [sent. 742 len. 9]: -- what did I tell you , sirrah ?
+Parsing [sent. 743 len. 6]: -- Yes , my lord .
+Parsing [sent. 744 len. 6]: Do you understand me ? ''
+Parsing [sent. 745 len. 7]: `` Yes -- my lord . ''
+Parsing [sent. 746 len. 14]: `` Pray , steward , whose clothes has this gentleman put on ? ''
+Parsing [sent. 747 len. 19]: `` Mr -- Mr Ossulton 's , I think -- sir -- my lord , I mean . ''
+Parsing [sent. 748 len. 23]: `` Very well , steward ; then recollect , in future you always address that gentleman as _ Mr Ossulton _ . ''
+Parsing [sent. 749 len. 31]: `` Yes , my lord , '' and the steward went down below , and was obliged to take a couple of glasses of brandy to keep himself from fainting .
+Parsing [sent. 750 len. 14]: `` Who are they , and what are they , Mr Maddox ? ''
+Parsing [sent. 751 len. 12]: cried the lady 's - maid , who had been weeping .
+Parsing [sent. 752 len. 3]: `` Pirates !
+Parsing [sent. 753 len. 10]: -- _ bloody murderous , stick-at-nothing _ pirates ! ''
+Parsing [sent. 754 len. 4]: replied the steward .
+Parsing [sent. 755 len. 4]: `` Oh ! ''
+Parsing [sent. 756 len. 19]: screamed the lady 's - maid , `` what will become of us , poor unprotected females ? ''
+Parsing [sent. 757 len. 13]: And she hastened into the cabin , to impart this dreadful intelligence .
+Parsing [sent. 758 len. 13]: The ladies in the cabin were not in a very enviable situation .
+Parsing [sent. 759 len. 57]: As for the elder Miss Ossulton -LRB- but perhaps , it will be better in future to distinguish the two ladies , by calling the elder simply Miss Ossulton , and her niece , Cecilia -RRB- , she was sitting with her salts to her nose , agonised with a mixture of trepidation and wounded pride .
+Parsing [sent. 760 len. 9]: Mrs Lascelles was weeping , but weeping gently .
+Parsing [sent. 761 len. 20]: Cecilia was sad , and her heart was beating with anxiety and suspense -- when the maid rushed in .
+Parsing [sent. 762 len. 4]: `` O madam !
+Parsing [sent. 763 len. 3]: O miss !
+Parsing [sent. 764 len. 4]: O Mrs Lascelles !
+Parsing [sent. 765 len. 7]: I have found it all out !
+Parsing [sent. 766 len. 11]: -- they are murderous , bloody , do-everything pirates ! ''
+Parsing [sent. 767 len. 6]: `` Mercy on us ! ''
+Parsing [sent. 768 len. 13]: exclaimed Miss Ossulton ; `` surely they will never dare -- ? ''
+Parsing [sent. 769 len. 9]: `` Oh , ma'am , they dare anything !
+Parsing [sent. 770 len. 30]: -- they just now were for throwing the steward overboard ; and they have rummaged for all the portmanteaus , and dressed themselves in the gentlemen 's best clothes .
+Parsing [sent. 771 len. 69]: The captain of them told the steward that he was Lord B -- , and that if he dared to call him anything else , he would cut his throat from ear to ear ; and if the cook do n't give them a good dinner , they swear that they 'll chop his right hand off , and make him eat it without pepper or salt ! ''
+Parsing [sent. 772 len. 10]: Miss Ossulton screamed , and went off into hysterics .
+Parsing [sent. 773 len. 34]: Mrs Lascelles and Cecilia went to her assistance ; but the latter had not forgotten the very different behaviour of Jack Pickersgill , and his polite manners , when he boarded the vessel .
+Parsing [sent. 774 len. 25]: She did not therefore believe what the maid had reported , but still her anxiety and suspense were great , especially about her father .
+Parsing [sent. 775 len. 18]: After having restored her aunt she put on her bonnet , which was lying on the sofa .
+Parsing [sent. 776 len. 9]: `` Where are you going , dear ? ''
+Parsing [sent. 777 len. 4]: said Mrs Lascelles .
+Parsing [sent. 778 len. 8]: `` On deck , '' replied Cecilia .
+Parsing [sent. 779 len. 11]: `` I must and will speak to these men . ''
+Parsing [sent. 780 len. 7]: `` Gracious heaven , Miss Ossulton !
+Parsing [sent. 781 len. 4]: Going on deck !
+Parsing [sent. 782 len. 8]: Have you heard what Phoebe says ? ''
+Parsing [sent. 783 len. 17]: `` Yes , aunt , I have ; but I can wait here no longer . ''
+Parsing [sent. 784 len. 4]: `` Stop her !
+Parsing [sent. 785 len. 3]: Stop her !
+Parsing [sent. 786 len. 6]: -- she will be murdered !
+Parsing [sent. 787 len. 10]: -- she will be -- she is mad ! ''
+Parsing [sent. 788 len. 18]: screamed Miss Ossulton ; but no one attempted to stop Cecilia , and on deck she went .
+Parsing [sent. 789 len. 36]: On her arrival she found Jack Pickersgill and Corbett walking the deck , one of the smugglers at the helm , and the rest forward , and as quiet as the crew of the yacht .
+Parsing [sent. 790 len. 19]: As soon as she made her appearance Jack took off his hat , and made her a bow .
+Parsing [sent. 791 len. 26]: `` I do not know whom I have the honour of addressing , young lady ; but I am flattered with this mark of confidence .
+Parsing [sent. 792 len. 22]: You feel , and I assure you , you feel correctly , that you are not exactly in lawless hands . ''
+Parsing [sent. 793 len. 10]: Cecilia looked with more surprise than fear at Pickersgill .
+Parsing [sent. 794 len. 42]: Mr Hautaine 's dress became him ; he was a handsome , fine-looking man , and had nothing of the ruffian in his appearance ; unless , like Byron 's Corsair , he was _ half savage , half soft _ .
+Parsing [sent. 795 len. 35]: She could not help thinking that she had met many with less pretensions , as far as appearance went , to the claims of a gentleman , at Almack 's and other fashionable circles .
+Parsing [sent. 796 len. 52]: `` I have ventured on deck , sir , '' said Cecilia , with a little tremulousness in her voice , `` to request , as a favour , that you will inform me what your intentions may be with regard to the vessel and with regard to the ladies ! ''
+Parsing [sent. 797 len. 47]: `` And I feel much obliged to you for so doing , and I assure you I will , as far as I have made up my own mind , answer you candidly : but you tremble -- allow me to conduct you to a seat .
+Parsing [sent. 798 len. 39]: In few words , then , to remove your present alarm , I intend that the vessel shall be returned to its owner , with every article in it as religiously respected as if they were church property .
+Parsing [sent. 799 len. 54]: With respect to you , and the other ladies on board , I pledge you my honour that you have nothing to fear ; that you shall be treated with every respect ; your privacy never invaded ; and that , in a few days , you will be restored to your friends .
+Parsing [sent. 800 len. 41]: Young lady , I pledge my hopes of future salvation to the truth of this ; but , at the same time , I must make a few conditions , which , however , will not be very severe . ''
+Parsing [sent. 801 len. 37]: `` But , sir , '' replied Cecilia , much relieved , for Pickersgill had stood by her in the most respectful manner , `` you are , I presume , the captain of the smuggler ?
+Parsing [sent. 802 len. 17]: Pray answer me one question more -- What became of the boat with Lord B -- ?
+Parsing [sent. 803 len. 6]: He is my father . ''
+Parsing [sent. 804 len. 27]: `` I left him in his boat , without a hair of his head touched , young lady ; but I took away the oars . ''
+Parsing [sent. 805 len. 7]: `` Then he will perish ! ''
+Parsing [sent. 806 len. 10]: cried Cecilia , putting her handkerchief to her eyes .
+Parsing [sent. 807 len. 17]: `` No , young lady ; he is on shore , probably , by this time .
+Parsing [sent. 808 len. 22]: Although I took away his means of assisting to capture us , I left him the means of gaining the land .
+Parsing [sent. 809 len. 18]: It is not every one who would have done that , after his conduct to us . ''
+Parsing [sent. 810 len. 33]: `` I begged him not to go , '' said Cecilia ; `` I told him that it was not fair , and that he had no quarrel with the smugglers . ''
+Parsing [sent. 811 len. 12]: `` I thank you even for that , '' replied Pickersgill .
+Parsing [sent. 812 len. 35]: `` And now , miss -- I have not the pleasure of recollecting his lordship 's family name -- '' `` Ossulton , sir , '' cried Cecilia , looking at Pickersgill with surprise .
+Parsing [sent. 813 len. 36]: `` Then with your permission , Miss Ossulton , I will now make you my confidant : excuse my using so free a term , but it is because I wish to relieve your fears .
+Parsing [sent. 814 len. 22]: At the same time , I can not permit you to divulge all my intentions to the whole party on board .
+Parsing [sent. 815 len. 39]: I feel that I may trust you , for you have courage , and where there is courage there generally is truth ; but you must first tell me whether you will condescend to accept these terms ? ''
+Parsing [sent. 816 len. 49]: Cecilia demurred a moment ; the idea of being the confidant of a smuggler rather startled her : but still , her knowledge of what his intentions were , if she might not reveal them , might be important ; as , perhaps , she might dissuade him .
+Parsing [sent. 817 len. 21]: She could be in no worse position than she was now , and she might be in a much better .
+Parsing [sent. 818 len. 35]: The conduct of Pickersgill had been such , up to the present , as to inspire confidence ; and , although he defied the laws , he appeared to regard the courtesies of life .
+Parsing [sent. 819 len. 42]: Cecilia was a courageous girl , and at length she replied : -- `` Provided what you desire me to keep secret will not be injurious to any one , or compromise me in my peculiar situation , I consent . ''
+Parsing [sent. 820 len. 36]: `` I would not hurt a fly , Miss Ossulton , but in self-defence ; and I have too much respect for you , from your conduct during our short meeting , to compromise you .
+Parsing [sent. 821 len. 37]: Allow me now to be very candid ; and then , perhaps , you will acknowledge that in my situation others would do the same , and , perhaps , not show half so much forbearance .
+Parsing [sent. 822 len. 43]: Your father , without any right whatever , interferes with me and my calling : he attempts to make me a prisoner , to have me thrown into jail , heavily fined , and , perhaps , sent out of the country .
+Parsing [sent. 823 len. 37]: I will not enter into any defence of smuggling ; it is sufficient to say that there are pains and penalties attached to the infraction of certain laws , and that I choose to risk them .
+Parsing [sent. 824 len. 53]: But Lord B -- was not empowered by Government to attack me ; it was a gratuitous act ; and had I thrown him and all his crew into the sea , I should have been justified ; for it was , in short , an act of piracy on their part .
+Parsing [sent. 825 len. 62]: Now , as your father has thought to turn a yacht into a revenue-cutter , you can not be surprised at my retaliating , in turning her into a smuggler ; and as he has mixed up looking after the revenue with yachting , he can not be surprised if I retaliate , by mixing up a little yachting with smuggling .
+Parsing [sent. 826 len. 53]: I have dressed your male companions as smugglers , and have sent them in the smuggling vessel to Cherbourg , where they will be safely landed ; and I have dressed myself , and the only person whom I could join with me in this frolic , as gentlemen in their places .
+Parsing [sent. 827 len. 61]: My object is twofold ; one is to land my cargo , which I have now on board , and which is very valuable ; the other is , to retaliate upon your father and his companions for their attempt upon me , by stepping into their shoes , and enjoying , for a day or two , their luxuries .
+Parsing [sent. 828 len. 55]: It is my intention to make free with nothing but his lordship 's wines and eatables -- that you may be assured of ; but I shall have no pleasure if the ladies do not sit down to the dinner-table with us , as they did before with your father and his friends . ''
+Parsing [sent. 829 len. 13]: `` You can hardly expect that , sir , '' said Cecilia .
+Parsing [sent. 830 len. 41]: `` Yes , I do ; and that will be not only the price of the early release of the yacht and themselves , but it will also be the only means by which they will obtain anything to eat .
+Parsing [sent. 831 len. 17]: You observe , Miss Ossulton , the sins of the fathers are visited on the children .
+Parsing [sent. 832 len. 15]: I have now told you what I mean to do and what I wish .
+Parsing [sent. 833 len. 23]: I leave you to think of it , and decide whether it will not be the best for all parties to consent .
+Parsing [sent. 834 len. 68]: You have my permission to tell the other ladies that , whatever may be their conduct , they are as secure from ill-treatment or rudeness as if they were in Grosvenor-Square ; but I can not answer that they will not be hungry , if , after such forbearance in every point , they show so little gratitude as not to honour me with their company . ''
+Parsing [sent. 835 len. 16]: `` Then I am to understand that we are to be starved into submission ? ''
+Parsing [sent. 836 len. 39]: `` No , not starved , Miss Ossulton ; but recollect that you will be on bread and water , and detained until you do consent , and your detention will increase the anxiety of your father . ''
+Parsing [sent. 837 len. 13]: `` You know how to persuade , sir , '' said Cecilia .
+Parsing [sent. 838 len. 29]: `` As far as I am concerned , I trust I shall ever be ready to sacrifice any feelings of pride to spare my father so much uneasiness .
+Parsing [sent. 839 len. 23]: With your permission , I will now go down into the cabin and relieve my companions from the worst of their fears .
+Parsing [sent. 840 len. 53]: As for obtaining what you wish , I can only say that , as a young person , I am not likely to have much influence with those older than myself , and must inevitably be overruled , as I have not permission to point out to them reasons which might avail .
+Parsing [sent. 841 len. 30]: Would you so far allow me to be relieved from my promise , as to communicate all you have said to me to the only married woman on board ?
+Parsing [sent. 842 len. 36]: I think I might then obtain your wishes , which , I must candidly tell you , I shall attempt to effect _ only _ because I am most anxious to rejoin my friends . ''
+Parsing [sent. 843 len. 60]: `` And be relieved of my company , '' replied Pickersgill , smiling ironically , -- `` of course you are ; but I must and will have my pretty revenge : and although you may , and probably will , detest me , at all events you shall not have any very formidable charge to make against me .
+Parsing [sent. 844 len. 61]: Before you go below , Miss Ossulton , I give you my permission to add the married lady to the number of my confidants ; and you must permit me to introduce my friend , Mr Ossulton ; '' and Pickersgill waved his hand in the direction of Corbett , who took off his hat and made a low obeisance .
+Parsing [sent. 845 len. 10]: It was impossible for Cecilia Ossulton to help smiling .
+Parsing [sent. 846 len. 33]: `` And , '' continued Pickersgill , `` having taken the command of this yacht instead of his lordship , it is absolutely necessary that I also take his lordship 's name .
+Parsing [sent. 847 len. 26]: While on board I am Lord B -- ; and allow me to introduce myself under that name ; I can not be addressed otherwise .
+Parsing [sent. 848 len. 23]: Depend upon it , Miss Ossulton , that I shall have a most paternal solicitude to make you happy and comfortable . ''
+Parsing [sent. 849 len. 31]: Had Cecilia Ossulton dared to have given vent to her real feelings at that time , she would have burst into a fit of laughter ; it was too ludicrous .
+Parsing [sent. 850 len. 13]: At the same time , the very burlesque reassured her still more .
+Parsing [sent. 851 len. 14]: She went into the cabin with a heavy weight removed from her heart .
+Parsing [sent. 852 len. 36]: In the meantime , Miss Ossulton and Mrs Lascelles remained below , in the greatest anxiety at Cecilia 's prolonged stay ; they knew not what to think , and dared not go on deck .
+Parsing [sent. 853 len. 35]: Mrs Lascelles had once determined at all risks to go up ; but Miss Ossulton and Phoebe had screamed and implored her so fervently not to leave them that she unwillingly consented to remain .
+Parsing [sent. 854 len. 47]: Cecilia 's countenance when she entered the cabin , reassured Mrs Lascelles , but not her aunt , who ran to her crying and sobbing and clinging to her , saying , `` What have they done to you , my poor , poor Cecilia ? ''
+Parsing [sent. 855 len. 50]: `` Nothing at all , aunt , '' replied Cecilia , `` the captain speaks very fairly , and says he shall respect us in every possible way , provided that we obey his orders ; but if not -- '' `` If not -- what , Cecilia ? ''
+Parsing [sent. 856 len. 10]: said Miss Ossulton , grasping her niece 's arm .
+Parsing [sent. 857 len. 13]: `` He will starve us , and not let us go ! ''
+Parsing [sent. 858 len. 8]: `` God have mercy on us ! ''
+Parsing [sent. 859 len. 8]: cried Miss Ossulton , renewing her sobs .
+Parsing [sent. 860 len. 18]: Cecilia then went to Mrs Lascelles , and communicated to her apart , all that had passed .
+Parsing [sent. 861 len. 50]: Mrs Lascelles agreed with Cecilia that they were in no danger of insult ; and as they talked over the matter they at last began to laugh ; there was a novelty in it , and there was something so ridiculous in all the gentlemen being turned into smugglers .
+Parsing [sent. 862 len. 47]: Cecilia was glad that she could not tell her aunt , as she wished her to be so frightened as never to have her company on board the yacht again ; and Mrs Lascelles was too glad to annoy her for many and various insults received .
+Parsing [sent. 863 len. 29]: The matter was therefore canvassed over very satisfactorily , and Mrs Lascelles felt a natural curiosity to see this new Lord B -- and the second Mr Ossulton .
+Parsing [sent. 864 len. 19]: But they had had no breakfast , and were feeling very hungry now that their alarm was over .
+Parsing [sent. 865 len. 13]: They desired Phoebe to ask the steward for some tea or coffee .
+Parsing [sent. 866 len. 29]: The reply was , that `` Breakfast was laid in the cabin , and Lord B -- trusted that the ladies would come to partake of it . ''
+Parsing [sent. 867 len. 23]: `` No , no , '' replied Mrs Lascelles , `` I never can , without being introduced to them first . ''
+Parsing [sent. 868 len. 27]: `` Nor will I go , '' replied Cecilia , `` but I will write a note , and we will have our breakfast here . ''
+Parsing [sent. 869 len. 64]: Cecilia wrote a note in pencil as follows : `` Miss Ossulton 's compliments to Lord B -- , and , as the ladies feel rather indisposed after the alarm of this morning , they trust that his lordship will excuse their coming to breakfast ; but hope to meet his lordship at dinner , if not before that time on deck . ''
+Parsing [sent. 870 len. 19]: The answer was propitious , and the steward soon appeared with the breakfast in the ladies ' cabin .
+Parsing [sent. 871 len. 21]: `` Well , Maddox , '' said Cecilia , `` how do you get on with your new master ? ''
+Parsing [sent. 872 len. 52]: The steward looked at the door , to see if it was closed , shook his head , and then said , with a look of despair , `` He has ordered a haunch of venison for dinner , miss , and he has twice threatened to toss me overboard . ''
+Parsing [sent. 873 len. 13]: `` You must obey him , Maddox , or he certainly will .
+Parsing [sent. 874 len. 6]: These pirates are dreadful fellows .
+Parsing [sent. 875 len. 15]: Be attentive , and serve him just as if he was my father . ''
+Parsing [sent. 876 len. 16]: `` Yes , yes , ma'am , I will ; but our time may come .
+Parsing [sent. 877 len. 22]: It 's _ burglary _ on the high seas , and I 'll go fifty miles to see him hanged . ''
+Parsing [sent. 878 len. 4]: `` Steward ! ''
+Parsing [sent. 879 len. 7]: cried Pickersgill , from the cabin .
+Parsing [sent. 880 len. 4]: `` O Lord !
+Parsing [sent. 881 len. 15]: He ca n't have heard me -- d'ye think he did , miss ? ''
+Parsing [sent. 882 len. 29]: `` The partitions are very thin , and you spoke very loud , '' said Mrs Lascelles : `` at all events , go to him quickly . ''
+Parsing [sent. 883 len. 42]: `` Good bye , miss ; good bye , ma'am ; if I should n't see you any more , '' said Maddox , trembling with fear , as he obeyed the awful summons -- which was to demand a tooth-pick .
+Parsing [sent. 884 len. 20]: Miss Ossulton would not touch the breakfast ; not so Mrs Lascelles and Cecilia , who ate very heartily .
+Parsing [sent. 885 len. 30]: `` It 's very dull to be shut up in this cabin , '' said Mrs Lascelles ; `` come , Cecilia , let 's go on deck . ''
+Parsing [sent. 886 len. 6]: `` And leave me ! ''
+Parsing [sent. 887 len. 4]: cried Miss Ossulton .
+Parsing [sent. 888 len. 24]: `` There is Phoebe here , aunt ; we are going up to persuade the pirates to put us all on shore . ''
+Parsing [sent. 889 len. 12]: Mrs Lascelles and Cecilia put on their bonnets and went up .
+Parsing [sent. 890 len. 20]: Lord B -- took off his hat , and begged the honour of being introduced to the pretty widow .
+Parsing [sent. 891 len. 25]: He handed the ladies to a seat , and then commenced conversing upon various subjects , which at the same time possessed great novelty .
+Parsing [sent. 892 len. 48]: His lordship talked about France , and described its ports ; told now and then a good anecdote ; pointed out the different headlands , bays , towns , and villages , which they were passing rapidly , and always had some little story connected with each .
+Parsing [sent. 893 len. 40]: Before the ladies had been two hours on deck they found themselves , to their infinite surprise , not only interested , but in conversation with the captain of the smuggler , and more than once they laughed outright .
+Parsing [sent. 894 len. 50]: But the _ soi-disant _ Lord B -- had inspired them with confidence ; they fully believed that what he had told them was true , and that he had taken possession of the yacht to smuggle his goods , to be revenged , and to have a laugh .
+Parsing [sent. 895 len. 55]: Now none of these three offences are capital in the eyes of the fair sex , and Jack was a handsome , fine-looking fellow , of excellent manners and very agreeable conversation ; at the same time , neither he nor his friend were in their general deportment and behaviour otherwise than most respectful .
+Parsing [sent. 896 len. 42]: `` Ladies , as you are not afraid of me , which is a greater happiness than I had reason to expect , I think you may be amused to witness the fear of those who accuse your sex of cowardice .
+Parsing [sent. 897 len. 20]: With your permission , I will send for the cook and steward , and inquire about the dinner . ''
+Parsing [sent. 898 len. 26]: `` I should like to know what there is for dinner , '' observed Mrs Lascelles demurely ; `` would n't you , Cecilia ? ''
+Parsing [sent. 899 len. 8]: Cecilia put her handkerchief to her mouth .
+Parsing [sent. 900 len. 17]: `` Tell the steward and the cook both to come aft immediately , '' cried Pickersgill .
+Parsing [sent. 901 len. 10]: In a few seconds they both made their appearance .
+Parsing [sent. 902 len. 4]: `` Steward ! ''
+Parsing [sent. 903 len. 8]: cried Pickersgill , with a loud voice .
+Parsing [sent. 904 len. 17]: `` Yes , my lord , '' replied Maddox , with his hat in his hand .
+Parsing [sent. 905 len. 11]: `` What wines have you put out for dinner ? ''
+Parsing [sent. 906 len. 21]: `` Champagne , my lord ; and claret , my lord ; and Madeira and sherry , my lord . ''
+Parsing [sent. 907 len. 7]: `` No Burgundy , sir ? ''
+Parsing [sent. 908 len. 14]: `` No , my lord ; there is no Burgundy on board . ''
+Parsing [sent. 909 len. 6]: `` No Burgundy , sir !
+Parsing [sent. 910 len. 9]: Do you dare to tell me that ? ''
+Parsing [sent. 911 len. 30]: `` Upon my soul , my lord , '' cried Maddox , dropping on his knees , `` there is no Burgundy on board -- ask the ladies . ''
+Parsing [sent. 912 len. 11]: `` Very well , sir , you may go . ''
+Parsing [sent. 913 len. 11]: `` Cook , what have you got for dinner ? ''
+Parsing [sent. 914 len. 27]: `` Sir , a haunch of mut -- of venison , my lord , '' replied the cook , with his white night-cap in his hand .
+Parsing [sent. 915 len. 7]: `` What else , sirrah ? ''
+Parsing [sent. 916 len. 11]: `` A boiled calf 's head , my lord . ''
+Parsing [sent. 917 len. 7]: `` A boiled calf 's head !
+Parsing [sent. 918 len. 14]: Let it be roasted , or I 'll roast you , sir ! ''
+Parsing [sent. 919 len. 8]: cried Pickersgill , in an angry tone .
+Parsing [sent. 920 len. 12]: `` Yes , my lord ; I 'll roast it . ''
+Parsing [sent. 921 len. 8]: `` And what else , sir ? ''
+Parsing [sent. 922 len. 8]: `` Maintenon cutlets , my lord . ''
+Parsing [sent. 923 len. 4]: `` Maintenon cutlets !
+Parsing [sent. 924 len. 12]: I hate them -- I wo n't have them , sir .
+Parsing [sent. 925 len. 11]: Let them be dressed _ a l'ombre Chinoise _ . ''
+Parsing [sent. 926 len. 13]: `` I do n't know what that is , my lord . ''
+Parsing [sent. 927 len. 33]: `` I do n't care for that , sirrah ; if you do n't find out by dinner-time , you 're food for fishes -- that all ; you may go . ''
+Parsing [sent. 928 len. 29]: The cook walked off wringing his hands and his night-cap as well -- for he still held it in his right hand -- and disappeared down the fore-hatchway .
+Parsing [sent. 929 len. 24]: `` I have done this to pay you a deserved compliment , ladies ; you have more courage than the other sex . ''
+Parsing [sent. 930 len. 22]: `` Recollect that we have had confidence given to us in consequence of your pledging your word , my lord . ''
+Parsing [sent. 931 len. 14]: `` You do me , then , the honour of believing me ? ''
+Parsing [sent. 932 len. 28]: `` I did not until I saw you , '' replied Mrs Lascelles , `` but now I am convinced that you will perform your promise . ''
+Parsing [sent. 933 len. 46]: `` You do , indeed , encourage me , madam , to pursue what is right , '' said Pickersgill , bowing ; `` for your approbation I should be most sorry to lose , still more sorry to prove myself unworthy of it . ''
+Parsing [sent. 934 len. 13]: As the reader will observe , everything was going on remarkably well .
+Parsing [sent. 935 len. 3]: CHAPTER SIX .
+Parsing [sent. 936 len. 4]: THE SMUGGLING YACHT .
+Parsing [sent. 937 len. 22]: Cecilia returned to the cabin , to ascertain whether her aunt was more composed ; but Mrs Lascelles remained on deck .
+Parsing [sent. 938 len. 13]: She was much pleased with Pickersgill ; and they continued their conversation .
+Parsing [sent. 939 len. 23]: Pickersgill entered into a defence of his conduct to Lord B -- ; and Mrs Lascelles could not but admit the provocation .
+Parsing [sent. 940 len. 23]: After a long conversation she hinted at his profession , and how superior he appeared to be to such a lawless life .
+Parsing [sent. 941 len. 44]: `` You may be incredulous , madam , '' replied Pickersgill , `` if I tell you that I have as good a right to quarter my arms as Lord B -- himself ; and that I am not under my real name .
+Parsing [sent. 942 len. 35]: Smuggling is , at all events , no crime ; and I infinitely prefer the wild life I lead at the head of my men to being spurned by society because I am poor .
+Parsing [sent. 943 len. 9]: The greatest crime in this country is poverty .
+Parsing [sent. 944 len. 14]: I may , if I am fortunate , some day resume my name .
+Parsing [sent. 945 len. 19]: You may , perhaps , meet me , and if you please , you may expose me . ''
+Parsing [sent. 946 len. 39]: `` That I should not be likely to do , '' replied the widow ; `` but still I regret to see a person , evidently intended for better things , employed in so disreputable a profession . ''
+Parsing [sent. 947 len. 19]: `` I hardly know , madam , what is and what is not disreputable in this conventional world .
+Parsing [sent. 948 len. 33]: It is not considered disreputable to cringe to the vices of a court , or to accept a pension wrung from the industry of the nation , in return for base servility .
+Parsing [sent. 949 len. 33]: It is not considered disreputable to take tithes , intended for the service of God , and lavish them away at watering-places or elsewhere , seeking pleasure instead of doing God service .
+Parsing [sent. 950 len. 29]: It is not considered disreputable to take fee after fee to uphold injustice , to plead against innocence , to pervert truth , and to aid the devil .
+Parsing [sent. 951 len. 42]: It is not considered disreputable to gamble on the Stock Exchange , or to corrupt the honesty of electors by bribes , for doing which the penalty attached is equal to that decreed to the offence of which I am guilty .
+Parsing [sent. 952 len. 44]: All these , and much more , are not considered disreputable ; yet by all these are the moral bonds of society loosened , while in mine we cause no guilt in others -- '' `` But still it is a crime . ''
+Parsing [sent. 953 len. 12]: `` A violation of the revenue laws , and no more .
+Parsing [sent. 954 len. 35]: Observe , madam , the English Government encourage the smuggling of our manufactures to the Continent , at the same time that they take every step to prevent articles being smuggled into this country .
+Parsing [sent. 955 len. 35]: Now , madam , can that be a _ crime _ when the head of the vessel is turned north , which becomes _ no crime _ when she steers the opposite way ? ''
+Parsing [sent. 956 len. 14]: `` There is a stigma attached to it , you must allow . ''
+Parsing [sent. 957 len. 20]: `` That I grant you , madam ; and as soon as I can quit the profession I shall .
+Parsing [sent. 958 len. 45]: No captive ever sighed more to be released from his chains ; but I will not leave it , till I find I am in a situation not to be spurned and neglected by those with whom I have a right to associate . ''
+Parsing [sent. 959 len. 23]: At this moment the steward was seen forward making signs to Mrs Lascelles , who excused herself , and went to him .
+Parsing [sent. 960 len. 68]: `` For the love of God , madam , '' said Maddox , `` as he appears to be friendly with you , do pray find out how these cutlets are to be dressed ; the cook is tearing his hair , and we shall never have any dinner ; and then it will all fall upon me , and I -- shall be tossed overboard . ''
+Parsing [sent. 961 len. 15]: Mrs Lascelles desired poor Maddox to wait there while she obtained the desired information .
+Parsing [sent. 962 len. 9]: In a few minutes she returned to him .
+Parsing [sent. 963 len. 7]: `` I have found it out .
+Parsing [sent. 964 len. 27]: They are first to be boiled in vinegar , then fried in batter , and served up with a sauce of anchovy and Malaga raisins ! ''
+Parsing [sent. 965 len. 20]: `` First fried in vinegar , then boiled in batter , and served up with almonds and raisins . ''
+Parsing [sent. 966 len. 6]: `` No -- no ! ''
+Parsing [sent. 967 len. 34]: Mrs Lascelles repeated the injunction to the frightened steward , and then returned aft , and re-entered into a conversation with Pickersgill , in which for the first time , Corbett now joined .
+Parsing [sent. 968 len. 35]: Corbett had sense enough to feel , that the less he came forward until his superior had established himself in the good graces of the ladies , the more favourable would be the result .
+Parsing [sent. 969 len. 19]: In the meantime Cecilia had gone down to her aunt , who still continued to wail and lament .
+Parsing [sent. 970 len. 28]: The young lady tried all she could to console her , and to persuade her that if they were civil and obedient they had nothing to fear .
+Parsing [sent. 971 len. 8]: `` Civil and obedient , indeed ! ''
+Parsing [sent. 972 len. 16]: cried Miss Ossulton , `` to a fellow who is a smuggler and a pirate !
+Parsing [sent. 973 len. 9]: I , the sister of Lord B -- !
+Parsing [sent. 974 len. 2]: Never !
+Parsing [sent. 975 len. 7]: The presumption of the wretch ! ''
+Parsing [sent. 976 len. 18]: `` That is all very well , aunt ; but recollect , we must submit to circumstances .
+Parsing [sent. 977 len. 22]: These men insist upon our dining with them ; and we must go , or we shall have no dinner . ''
+Parsing [sent. 978 len. 9]: `` I , sit down with a pirate !
+Parsing [sent. 979 len. 2]: Never !
+Parsing [sent. 980 len. 15]: I 'll have no dinner -- I 'll starve -- I 'll die ! ''
+Parsing [sent. 981 len. 39]: `` But , my dear aunt , it 's the only chance we have of obtaining our release ; and if you do not do it Mrs Lascelles will think that you wish to remain with them . ''
+Parsing [sent. 982 len. 11]: `` Mrs Lascelles judges of other people by herself . ''
+Parsing [sent. 983 len. 12]: `` The captain is certainly a very well-behaved , handsome man .
+Parsing [sent. 984 len. 8]: He looks like a nobleman in disguise .
+Parsing [sent. 985 len. 19]: What an odd thing it would be , aunt , if this should be all a hoax ! ''
+Parsing [sent. 986 len. 7]: `` A hoax , child ? ''
+Parsing [sent. 987 len. 10]: replied Miss Ossulton , sitting up on the sofa .
+Parsing [sent. 988 len. 64]: Cecilia found that she had hit the right nail , as the saying is ; and she brought forward so many arguments to prove that she thought it was a hoax to frighten them , and that the gentleman above was a man of consequence , that her aunt began to listen to reason , and at last consented to join the dinner-party .
+Parsing [sent. 989 len. 29]: Mrs Lascelles now came down below ; and when dinner was announced they repaired to the large cabin , where they found Pickersgill and Corbett waiting for them .
+Parsing [sent. 990 len. 48]: Miss Ossulton did not venture to look up , until she heard Pickersgill say to Mrs Lascelles , `` Perhaps , madam , you will do me the favour to introduce me to that lady , whom I have not had the honour of seeing before ? ''
+Parsing [sent. 991 len. 11]: `` Certainly , my lord , '' replied Mrs Lascelles .
+Parsing [sent. 992 len. 12]: `` Miss Ossulton , the aunt of this young lady . ''
+Parsing [sent. 993 len. 21]: Mrs Lascelles purposely did not introduce _ his lordship _ in return , that she might mystify the old spinster .
+Parsing [sent. 994 len. 20]: `` I feel highly honoured in finding , myself in the company of Miss Ossulton , '' said Pickersgill .
+Parsing [sent. 995 len. 12]: `` Ladies , we wait but for you to sit down .
+Parsing [sent. 996 len. 14]: Ossulton , take the head of the table and serve the soup . ''
+Parsing [sent. 997 len. 34]: Miss Ossulton was astonished ; she looked at the smugglers , and perceived two well-dressed gentlemanly men , one of whom was apparently a lord and the other having the same family name .
+Parsing [sent. 998 len. 21]: `` It must be all a hoax , '' thought she , and she very quietly took to her soup .
+Parsing [sent. 999 len. 42]: The dinner passed off very pleasantly ; Pickersgill was agreeable , Corbett funny , and Miss Ossulton so far recovered herself as to drink wine with his lordship , and to ask Corbett what branch of their family he belonged to .
+Parsing [sent. 1000 len. 10]: `` I presume it 's the Irish branch ? ''
+Parsing [sent. 1001 len. 7]: said Mrs Lascelles , prompting him .
+Parsing [sent. 1002 len. 9]: `` Exactly , madam , '' replied Corbett .
+Parsing [sent. 1003 len. 11]: `` Have you ever been to Torquay , ladies ? ''
+Parsing [sent. 1004 len. 3]: inquired Pickersgill .
+Parsing [sent. 1005 len. 11]: `` No , my lord , '' answered Mrs Lascelles .
+Parsing [sent. 1006 len. 19]: `` We shall anchor there in the course of an hour , and probably remain there till to-morrow .
+Parsing [sent. 1007 len. 5]: Steward , bring coffee .
+Parsing [sent. 1008 len. 10]: Tell the cook these cutlets were remarkably well-dressed . ''
+Parsing [sent. 1009 len. 7]: The ladies retired to their cabin .
+Parsing [sent. 1010 len. 36]: Miss Ossulton was now convinced that it was all a hoax ; `` but , '' said she , `` I shall tell Lord B -- my opinion of their practical jokes when he returns .
+Parsing [sent. 1011 len. 12]: What is his lordship 's name who is on board ? ''
+Parsing [sent. 1012 len. 25]: `` He wo n't tell us , '' replied Mrs Lascelles ; `` but I think I know ; it is Lord Blarney . ''
+Parsing [sent. 1013 len. 23]: `` Lord Blaney you mean , I presume , '' said Miss Ossulton ; `` however the thing is carried too far .
+Parsing [sent. 1014 len. 21]: Cecilia , we will go on shore at Torquay , and wait till the yacht returns with Lord B -- .
+Parsing [sent. 1015 len. 22]: I do n't like these jokes ; they may do very well for widows , and people of no rank . ''
+Parsing [sent. 1016 len. 15]: Now Mrs Lascelles was sorry to find Miss Ossulton so much at her ease .
+Parsing [sent. 1017 len. 12]: She owed her no little spite , and wished for revenge .
+Parsing [sent. 1018 len. 9]: Ladies will go very far to obtain this .
+Parsing [sent. 1019 len. 34]: How far Mrs Lascelles would have gone , I will not pretend to say ; but this is certain , that the last innuendo of Miss Ossulton very much added to her determination .
+Parsing [sent. 1020 len. 62]: She took her bonnet and went on deck , at once told Pickersgill that he could not please her or Cecilia more than by frightening Miss Ossulton , who , under the idea that it was all a hoax , had quite recovered her spirits ; talked of her pride and ill-nature , and wished her to receive a useful lesson .
+Parsing [sent. 1021 len. 26]: Thus , to follow up her revenge , did Mrs Lascelles commit herself so far , as to be confidential with the smuggler in return .
+Parsing [sent. 1022 len. 26]: `` Mrs Lascelles , I shall be able to obey you , and , at the same time , to combine business with pleasure . ''
+Parsing [sent. 1023 len. 13]: After a short conversation , the yacht dropped her anchor at Torquay .
+Parsing [sent. 1024 len. 9]: It was then about two hours before sunset .
+Parsing [sent. 1025 len. 82]: As soon as the sails were furled , one or two gentlemen , who resided there , came on board to pay their respects to Lord B -- ; and , as Pickersgill had found out from Cecilia that her father was acquainted with no one there , he received them in person ; asked them down in the cabin -- called for wine -- and desired them to send their boats away , as his own was going on shore .
+Parsing [sent. 1026 len. 41]: The smugglers took great care that the steward , cook , and lady 's - maid , should have no communication with the guests ; one of them , by Corbett 's direction , being a sentinel over each individual .
+Parsing [sent. 1027 len. 65]: The gentlemen remained about half-an-hour on board , during which Corbett and the smugglers had filled the portmanteaus found in the cabin with the lace , and they were put in the boat ; Corbett then landed the gentlemen in the same boat , and went up to the hotel , the smugglers following him with the portmanteaus , without any suspicion or interruption .
+Parsing [sent. 1028 len. 36]: As soon as he was there , he ordered post-horses , and set off for a town close by , where he had correspondents ; and thus the major part of the cargo was secured .
+Parsing [sent. 1029 len. 33]: Corbett then returned in the night , bringing with him people to receive the goods ; and the smugglers landed the silks , teas , etcetera , with the same good fortune .
+Parsing [sent. 1030 len. 20]: Everything was out of the yacht except a portion of the lace , which the portmanteaus would not hold .
+Parsing [sent. 1031 len. 20]: Pickersgill might easily have sent this on shore ; but , to please Mrs Lascelles , he arranged otherwise .
+Parsing [sent. 1032 len. 38]: The next morning , about an hour after breakfast was finished , Mrs Lascelles entered the cabin pretending to be in the greatest consternation , and fell on the sofa as if she were going to faint .
+Parsing [sent. 1033 len. 4]: `` Good heavens !
+Parsing [sent. 1034 len. 6]: What is the matter ? ''
+Parsing [sent. 1035 len. 11]: exclaimed Cecilia , who knew very well what was coming .
+Parsing [sent. 1036 len. 6]: `` Oh , the wretch !
+Parsing [sent. 1037 len. 7]: He has made such proposals ! ''
+Parsing [sent. 1038 len. 3]: `` Proposals !
+Parsing [sent. 1039 len. 3]: What proposals ?
+Parsing [sent. 1040 len. 2]: What !
+Parsing [sent. 1041 len. 4]: Lord Blaney ? ''
+Parsing [sent. 1042 len. 4]: cried Miss Ossulton .
+Parsing [sent. 1043 len. 8]: `` Oh , he 's no lord !
+Parsing [sent. 1044 len. 8]: He 's a villain and a smuggler !
+Parsing [sent. 1045 len. 22]: And he insists that we shall both fill our pockets full of lace , and go on shore with him . ''
+Parsing [sent. 1046 len. 5]: `` Mercy on me !
+Parsing [sent. 1047 len. 21]: Then it is no hoax after all ; and I 've been sitting down to dinner with a smuggler ! ''
+Parsing [sent. 1048 len. 6]: `` Sitting down , madam !
+Parsing [sent. 1049 len. 23]: -- if it were to be no more than that -- but we are to take his arm up to the hotel .
+Parsing [sent. 1050 len. 3]: Oh dear !
+Parsing [sent. 1051 len. 15]: Cecilia , I am ordered on deck ; pray , come with me ! ''
+Parsing [sent. 1052 len. 21]: Miss Ossulton rolled on the sofa , and rang for Phoebe ; she was in a state of great alarm .
+Parsing [sent. 1053 len. 6]: A knock at the door .
+Parsing [sent. 1054 len. 20]: `` Come in , '' said Miss Ossulton , thinking it was Phoebe ; when Pickersgill made his appearance .
+Parsing [sent. 1055 len. 8]: `` What do you want , sir ?
+Parsing [sent. 1056 len. 5]: Go out , sir !
+Parsing [sent. 1057 len. 10]: Go out directly , of I 'll scream ! ''
+Parsing [sent. 1058 len. 20]: `` It is no use screaming , madam ; recollect , that all on board are at my service .
+Parsing [sent. 1059 len. 13]: You , will oblige me by listening to me , Miss Ossulton .
+Parsing [sent. 1060 len. 19]: I am , as you know , a smuggler ; and I must send this lace on shore .
+Parsing [sent. 1061 len. 26]: You will oblige me by putting , it into your pockets , or about your person , and prepare to go on shore with me .
+Parsing [sent. 1062 len. 28]: As soon as we arrive at the hotel , you will deliver it to me , and I then shall re-conduct you on board of the yacht .
+Parsing [sent. 1063 len. 19]: You are not the first lady who has gone on shore with contraband articles about her person . ''
+Parsing [sent. 1064 len. 5]: `` Me , sir !
+Parsing [sent. 1065 len. 7]: Go on shore in that way ?
+Parsing [sent. 1066 len. 6]: No , sir -- never !
+Parsing [sent. 1067 len. 6]: What will the world say ?
+Parsing [sent. 1068 len. 10]: -- the Hon. Miss Ossulton walking with a smuggler !
+Parsing [sent. 1069 len. 7]: No , sir -- never ! ''
+Parsing [sent. 1070 len. 118]: `` Yes , madam ; walking arm-in-arm with a smuggler : I shall have you on one arm , and Mrs Lascelles on the other ; and I would advise you to take it very quietly ; for , in the first place , it will be you who smuggle , as the goods will be found on your person , and you will certainly be put in prison : for at the least appearance of insubordination , we run and inform against you ; and further , your niece will remain on board as a hostage for your good behaviour -- and if you have any regard for her liberty , you will consent immediately . ''
+Parsing [sent. 1071 len. 18]: Pickersgill left the cabin , and shortly afterwards Cecilia and Mrs Lascelles entered , apparently much distressed .
+Parsing [sent. 1072 len. 44]: They had been informed of all , and Mrs Lascelles declared , that for her part , sooner than leave her poor Cecilia to the mercy of such people , she had made up her mind to submit to the smuggler 's demands .
+Parsing [sent. 1073 len. 28]: Cecilia also begged so earnestly , that Miss Ossulton , who had no idea that it was a trick , with much sobbing and blubbering , consented .
+Parsing [sent. 1074 len. 49]: When all was ready , Cecilia left the cabin ; Pickersgill came down , handed up the two ladies , who had not exchanged a word with each other during Cecilia 's absence ; the boat was ready alongside -- they went in , and pulled on shore .
+Parsing [sent. 1075 len. 8]: Everything succeeded to the smuggler 's satisfaction .
+Parsing [sent. 1076 len. 38]: Miss Ossulton , frightened out of her wits , took his arm ; and , with Mrs Lascelles on the other , they went up to the hotel , followed by four of his boat 's crew .
+Parsing [sent. 1077 len. 28]: As soon as they were shown into a room , Corbett , who was already on shore , asked for Lord B -- , and joined them .
+Parsing [sent. 1078 len. 35]: The ladies retired to another apartment , divested themselves of their contraband goods , and , after calling for some sandwiches and wine , Pickersgill waited an hour , and then returned on board .
+Parsing [sent. 1079 len. 22]: Mrs Lascelles was triumphant ; and she rewarded her new ally -- the smuggler -- with one of her sweetest smiles .
+Parsing [sent. 1080 len. 9]: Community of interest will sometimes make strange friendships .
+Parsing [sent. 1081 len. 3]: CHAPTER SEVEN .
+Parsing [sent. 1082 len. 2]: CONCLUSION .
+Parsing [sent. 1083 len. 19]: We must now return to the other parties who have assisted in the acts of this little drama .
+Parsing [sent. 1084 len. 79]: Lord B -- , after paddling and paddling , the men relieving each other , in order to make head against the wind , which was off shore , arrived about midnight at a small town in West Bay , from whence he took a chaise on to Portsmouth , taking it for granted that his yacht would arrive as soon as , if not before himself , little imagining that it was in possession of the smugglers .
+Parsing [sent. 1085 len. 37]: There he remained three or four days , when , becoming impatient , he applied to one of his friends who had a yacht at Cowes , and sailed with him to look after his own .
+Parsing [sent. 1086 len. 11]: We left the _ Happy-go-lucky _ chased by the revenue-cutter .
+Parsing [sent. 1087 len. 48]: At first the smuggler had the advantage before the wind ; but , by degrees , the wind went round with the sun , and brought the revenue-cutter leeward : it was then a chase on a wind , and the revenue-cutter came fast up with her .
+Parsing [sent. 1088 len. 47]: Morrison , perceiving that he had no chance of escape , let run the ankers of brandy that he might not be condemned ; but still he was in an awkward situation , as he had more men on board than allowed by Act of Parliament .
+Parsing [sent. 1089 len. 60]: He therefore stood on , notwithstanding the shot of the cutter went over and over him hoping , that a fog or night might enable him to escape ; but he had no such good fortune ; one of the shot carried away the head of his mast , and the _ Happy-go-lucky 's _ luck was all over .
+Parsing [sent. 1090 len. 64]: He was boarded and taken possession of ; he asserted that the extra men were only passengers ; but , in the first place , they were dressed in seamen 's clothes ; and , in the second , as soon as the boat was aboard of her , Appleboy had gone down to his gin-toddy , and was not to be disturbed .
+Parsing [sent. 1091 len. 33]: The gentlemen smugglers therefore passed an uncomfortable night ; and the cutter going Portland by daylight , before Appleboy was out of bed , they were taken on shore to the magistrate .
+Parsing [sent. 1092 len. 43]: Hautaine explained the whole affair , and they were immediately released and treated with respect ; but they were not permitted to depart until they were bound over to appear against the smugglers , and prove the brandy having been on board .
+Parsing [sent. 1093 len. 65]: They then set off for Portsmouth in the seamen 's clothes , having had quite enough of yachting for that season , Mr Ossulton declaring that he only wanted to get his luggage , and then he would take care how he put himself again in the way of the shot of a revenue cruiser , or of sleeping a night on her decks .
+Parsing [sent. 1094 len. 44]: In the mean time Morrison and his men were locked up in the gaol , the old man , as the key was turned on him , exclaiming , as he raised his foot in vexation , `` That cursed blue pigeon ! ''
+Parsing [sent. 1095 len. 8]: We will now return to the yacht .
+Parsing [sent. 1096 len. 20]: About an hour after Pickersgill had come on board , Corbett had made all his arrangements and followed him .
+Parsing [sent. 1097 len. 27]: It was not advisable to remain at Torquay any longer , through fear of discovery ; he therefore weighed anchor before dinner , and made sail .
+Parsing [sent. 1098 len. 13]: `` What do you intend to do now , my lord ? ''
+Parsing [sent. 1099 len. 4]: said Mrs Lascelles .
+Parsing [sent. 1100 len. 31]: `` I intend to run down to Cowes , anchor the yacht in the night , and an hour before daylight have you in my boat with all my men .
+Parsing [sent. 1101 len. 22]: I will take care that you are in perfect safety , depend upon it , even if I run a risk .
+Parsing [sent. 1102 len. 27]: I should , indeed , be miserable , if , through my wild freaks , any accident should happen to Mrs Lascelles or Miss Ossulton . ''
+Parsing [sent. 1103 len. 13]: `` I am very anxious about my father , '' observed Cecilia .
+Parsing [sent. 1104 len. 11]: `` I trust that you will keep your promise . ''
+Parsing [sent. 1105 len. 14]: `` I always have hitherto , Miss Ossulton ; have I not ? ''
+Parsing [sent. 1106 len. 11]: `` Ours is but a short and strange acquaintance . ''
+Parsing [sent. 1107 len. 17]: `` I grant it ; but it will serve for you to talk about long after .
+Parsing [sent. 1108 len. 26]: I shall disappear as suddenly as I have come -- you will neither of you , in all probability , ever see me again . ''
+Parsing [sent. 1109 len. 45]: The dinner was announced , and they sat down to table as before ; but the elderly spinster refused to make her appearance , and Mr Lascelles and Cecilia , who thought she had been frightened enough , did not attempt to force her .
+Parsing [sent. 1110 len. 58]: Pickersgill immediately yielded to these remonstrances , and from that time she remained undisturbed in the ladies ' cabin , meditating over the indignity of having sat down to table , having drank wine , and been obliged to walk on shore , taking the arm of a smuggler , and appear in such a humiliating situation .
+Parsing [sent. 1111 len. 50]: The wind was light , and they made but little progress , and were not abreast of Portland till the second day , when another yacht appeared in sight , and the two vessels slowly neared , until in the afternoon they were within four miles of each other .
+Parsing [sent. 1112 len. 35]: It then fell a dead calm : signals were thrown out by the other yacht , but could not be distinguished , and , for the last time , they sat down to dinner .
+Parsing [sent. 1113 len. 48]: Three days ' companionship on board of a vessel , cooped up together , and having no one else to converse with , will produce intimacy ; and Pickersgill was a young man of so much originality and information , that he was listened to with pleasure .
+Parsing [sent. 1114 len. 21]: He never attempted to advance beyond the line of strict decorum and politeness ; and his companion was equally unpresuming .
+Parsing [sent. 1115 len. 75]: Situated as they were , and feeling what must have been the case had they fallen into other hands , both Cecilia and Mrs Lascelles felt some degree of gratitude towards him ; and although anxious to be relieved from so strange a position , they had gradually acquired a perfect confidence in him ; and this had produced a degree of familiarity on their parts , although never ventured upon by the smuggler .
+Parsing [sent. 1116 len. 18]: As Corbett was at the table , one of the men came down and made a sign .
+Parsing [sent. 1117 len. 12]: Corbett , shortly after quitted the table and went on deck .
+Parsing [sent. 1118 len. 35]: `` I wish , my lord , you would come up a moment , and see if you can make this flag out , '' said Corbett , giving a significant nod to Pickersgill .
+Parsing [sent. 1119 len. 18]: `` Excuse me , ladies , one moment , '' said Pickersgill , who went on deck .
+Parsing [sent. 1120 len. 34]: `` It is the boat of the yacht coming on board , '' said Corbett ; `` and Lord B -- is in the stern-sheets with the gentleman who was with him . ''
+Parsing [sent. 1121 len. 9]: `` And how many men in the boat ?
+Parsing [sent. 1122 len. 8]: -- let me see -- only four .
+Parsing [sent. 1123 len. 59]: Well , let his lordship and his friend come : when they are on the deck , have the men ready in case of accident ; but if you can manage to tell the boat 's crew that they are to go on board again , and get rid of them that way , so much the better .
+Parsing [sent. 1124 len. 21]: Arrange this with Adams , and then come down again -- his lordship must see us all at dinner . ''
+Parsing [sent. 1125 len. 33]: Pickersgill then descended , and Corbett had hardly time to give his directions and to resume his seat , before his lordship and Mr Stewart pulled up alongside and jumped on deck .
+Parsing [sent. 1126 len. 19]: There was no one to receive them but the seamen , and those whom they did not know .
+Parsing [sent. 1127 len. 25]: They looked round in amazement ; at last his lordship said to Adams , who stood forward -- `` What men are you ? ''
+Parsing [sent. 1128 len. 12]: `` Belong to the yacht , ye ' r honour . ''
+Parsing [sent. 1129 len. 50]: Lord B -- heard laughing in the cabin ; he would not wait to interrogate the men ; he walked aft , followed by Mr Stewart , looked down the skylight , and perceived his daughter and Mrs Lascelles , with , as he supposed , Hautaine and Ossulton .
+Parsing [sent. 1130 len. 39]: Pickersgill had heard the boat rub the side , and the sound of the feet on deck , and he talked the more loudly , that the ladies might be caught by Lord B -- as they were .
+Parsing [sent. 1131 len. 56]: He heard their feet at the skylight , and knew that they could hear what passed ; and at that moment he proposed to the ladies that as this was their last meeting at table they should all take a glass of champagne to drink to `` their happy meeting with Lord B -- . ''
+Parsing [sent. 1132 len. 10]: This was a toast which they did not refuse .
+Parsing [sent. 1133 len. 36]: Maddox poured out the wine , and they were all bowing to each other , when his lordship , who had come down the ladder , walked into the cabin , followed by Mr Stewart .
+Parsing [sent. 1134 len. 23]: Cecilia perceived her father ; the champagne-glass dropped from her hand -- she flew into his arms , and burst into tears .
+Parsing [sent. 1135 len. 12]: `` Who would not be a father , Mrs Lascelles ? ''
+Parsing [sent. 1136 len. 17]: said Pickersgill , quietly seating himself , after having first risen to receive Lord B -- .
+Parsing [sent. 1137 len. 16]: `` And pray , whom may I have the honour of finding established here ? ''
+Parsing [sent. 1138 len. 24]: said Lord B -- , in an angry tone , speaking over his daughter 's head , who still lay in his arms .
+Parsing [sent. 1139 len. 6]: `` By heavens , yes !
+Parsing [sent. 1140 len. 12]: -- Stewart , it is the smuggling captain dressed out . ''
+Parsing [sent. 1141 len. 11]: `` Even so , my lord , '' replied Pickersgill .
+Parsing [sent. 1142 len. 28]: `` You abandoned your yacht to capture me ; you left these ladies in a vessel crippled for want of men ; they might have been lost .
+Parsing [sent. 1143 len. 21]: I have returned good for evil by coming on board with my own people , and taking charge of them .
+Parsing [sent. 1144 len. 20]: This night I expected to have anchored your vessel in Cowes , and have left them in safety . ''
+Parsing [sent. 1145 len. 8]: `` By the -- '' cried Stewart .
+Parsing [sent. 1146 len. 10]: `` Stop , sir , if you please ! ''
+Parsing [sent. 1147 len. 15]: cried Pickersgill ; `` recollect you have once already attacked one who never offended .
+Parsing [sent. 1148 len. 20]: Oblige me by refraining from intemperate language ; for I tell you I will not put up with it .
+Parsing [sent. 1149 len. 25]: Recollect , sir , that I have refrained from that , and also from taking advantage of you when you were in my power .
+Parsing [sent. 1150 len. 29]: Recollect , sir , also , that the yacht is still in possession of the smugglers , and that you are in no condition to insult with impunity .
+Parsing [sent. 1151 len. 22]: My lord , allow me to observe , that we men are too hot of temperament to argue or listen coolly .
+Parsing [sent. 1152 len. 34]: With your permission , your friend , and my friend , and I , will repair on deck , leaving you to hear from your daughter and that lady all that has passed .
+Parsing [sent. 1153 len. 23]: After that , my lord , I shall be most happy to hear anything which your lordship may please to say . ''
+Parsing [sent. 1154 len. 10]: `` Upon my word -- '' commenced Mr Stewart .
+Parsing [sent. 1155 len. 40]: `` Mr Stewart , '' interrupted Cecilia Ossulton , `` I request your silence ; nay , more , if ever we are again to sail in the same vessel together , I _ insist _ upon it . ''
+Parsing [sent. 1156 len. 18]: `` Your lordship will oblige me by enforcing Miss Ossulton 's request , '' said Mrs Lascelles .
+Parsing [sent. 1157 len. 17]: Mr Stewart was dumbfounded -- no wonder -- to find the ladies siding with the smuggler .
+Parsing [sent. 1158 len. 39]: `` I am obliged to you , ladies , for your interference , '' said Pickersgill ; `` for , although I have the means of enforcing conditions , I should be sorry to avail myself of them .
+Parsing [sent. 1159 len. 9]: I wait for his lordship 's reply . ''
+Parsing [sent. 1160 len. 8]: Lord B -- was very much surprised .
+Parsing [sent. 1161 len. 13]: He wished for an explanation ; he bowed with _ hauteur _ .
+Parsing [sent. 1162 len. 25]: Everybody appeared to be in a false position ; even he , Lord B -- , somehow or another had bowed to a smuggler .
+Parsing [sent. 1163 len. 42]: Pickersgill and Stewart went on deck , walking up and down , crossing each other without speaking , but reminding you of two dogs who are both anxious to fight , but have been restrained by the voice of their masters .
+Parsing [sent. 1164 len. 36]: Corbett followed , and talked in a low tone to Pickersgill ; Stewart went over to leeward to see if the boat was still alongside , but it had long before returned to the yacht .
+Parsing [sent. 1165 len. 65]: Miss Ossulton had heard her brother 's voice , but did not come out of the after-cabin ; she wished to be magnificent , and at the same time she was not sure whether all was right , Phoebe having informed her that there was nobody with her brother and Mr Stewart , and that the smugglers still had the command of the vessel .
+Parsing [sent. 1166 len. 28]: After a while , Pickersgill and Corbett went down forward , and returned dressed in the smugglers ' clothes , when they resumed their walk on deck .
+Parsing [sent. 1167 len. 26]: In the mean time it was dark ; the cutter flew along the coast , and the Needles ' lights were on the larboard bow .
+Parsing [sent. 1168 len. 15]: The conversation between Cecilia , Mrs Lascelles , and her father , was long .
+Parsing [sent. 1169 len. 72]: When all had been detailed , and the conduct of Pickersgill duly represented , Lord B -- acknowledged that , by attacking the smuggler , he had laid himself open to retaliation ; that Pickersgill had shown a great deal of forbearance in every instance ; and after all , had he not gone on board the yacht , she might have been lost , with only three seamen on board .
+Parsing [sent. 1170 len. 38]: He was amused with the smuggling and the fright of his sister , still more with the gentlemen being sent to Cherbourg , and much consoled that he was not the only one to be laughed at .
+Parsing [sent. 1171 len. 33]: He was also much pleased with Pickersgill 's intention of leaving the yacht safe in Cowes harbour , his respect for the property on board , and his conduct to the ladies .
+Parsing [sent. 1172 len. 21]: On the whole , he felt grateful to Pickersgill , and where there is gratitude there is always good will .
+Parsing [sent. 1173 len. 8]: `` But who can he be ? ''
+Parsing [sent. 1174 len. 27]: said Mrs Lascelles ; `` his name he acknowledges not to be Pickersgill , and he told me confidentially that he was of good family . ''
+Parsing [sent. 1175 len. 9]: `` Confidentially , my dear Mrs Lascelles ! ''
+Parsing [sent. 1176 len. 5]: said Lord B -- .
+Parsing [sent. 1177 len. 5]: `` Oh , yes !
+Parsing [sent. 1178 len. 6]: We are both his confidants .
+Parsing [sent. 1179 len. 7]: Are we not , Cecilia ? ''
+Parsing [sent. 1180 len. 24]: `` Upon my honour , Mrs Lascelles , this smuggler appears to have made an impression which many have attempted in vain . ''
+Parsing [sent. 1181 len. 48]: Mrs Lascelles did not reply to the remark , but said , `` Now , my lord , you must decide -- and I trust you will , to oblige us ; treat him as he has treated us , with the greatest respect and kindness . ''
+Parsing [sent. 1182 len. 8]: `` Why should you suppose otherwise ? ''
+Parsing [sent. 1183 len. 19]: replied Lord B -- ; `` it is not only my wish but my interest so to do .
+Parsing [sent. 1184 len. 13]: He may take us over to France to-night , or anywhere else .
+Parsing [sent. 1185 len. 9]: Has he not possession of the vessel ? ''
+Parsing [sent. 1186 len. 20]: `` Yes , '' replied Cecilia ; `` but we flatter ourselves that we have _ the command _ .
+Parsing [sent. 1187 len. 9]: Shall we call him down , papa ? ''
+Parsing [sent. 1188 len. 5]: `` Ring for Maddox .
+Parsing [sent. 1189 len. 32]: Maddox , tell Mr Pickersgill , who is on deck , that I wish to speak with him , and shall be obliged by his stepping down into the cabin . ''
+Parsing [sent. 1190 len. 6]: `` Who , my lord ?
+Parsing [sent. 1191 len. 2]: What ?
+Parsing [sent. 1192 len. 5]: _ Him _ ? ''
+Parsing [sent. 1193 len. 13]: `` Yes ; _ him _ , '' replied Cecilia , laughing .
+Parsing [sent. 1194 len. 13]: `` Must I call him my lord , now , miss ? ''
+Parsing [sent. 1195 len. 25]: `` You may do as you please , Maddox ; but recollect he is still in possession of the vessel , '' replied Cecilia .
+Parsing [sent. 1196 len. 19]: `` Then , with your lordship 's permission , I will ; it 's the safest way . ''
+Parsing [sent. 1197 len. 17]: The smuggler entered the cabin , the ladies started as he appeared in his rough costume .
+Parsing [sent. 1198 len. 23]: With his throat open , and his loose black handkerchief , he was the _ beau ideal _ of a handsome sailor .
+Parsing [sent. 1199 len. 10]: `` Your lordship wishes to communicate with me ? ''
+Parsing [sent. 1200 len. 24]: `` Mr Pickersgill , I feel that you have had cause of enmity against me , and that you have behaved with forbearance .
+Parsing [sent. 1201 len. 27]: I thank you for your considerate treatment of the ladies ; and I assure you , that I feel no resentment for what has passed . ''
+Parsing [sent. 1202 len. 58]: `` My lord , I am quite satisfied with what you have said ; and I only hope that , in future , you will not interfere with a poor smuggler , who may be striving , by a life of danger and privation , to procure subsistence for himself , and , perhaps , his family .
+Parsing [sent. 1203 len. 27]: I stated to these ladies my intention of anchoring the yacht this night at Cowes , and leaving her as soon as she was in safety .
+Parsing [sent. 1204 len. 45]: Your unexpected presence will only make this difference , which is , that I must previously obtain your lordship 's assurance that those with you will allow me and my men to quit her without molestation , after we have performed this service . ''
+Parsing [sent. 1205 len. 17]: `` I pledge you my word , Mr Pickersgill , and thank you into the bargain .
+Parsing [sent. 1206 len. 12]: I trust you will allow me to offer some remuneration . ''
+Parsing [sent. 1207 len. 9]: `` Most certainly not , my lord . ''
+Parsing [sent. 1208 len. 27]: `` At all events , Mr Pickersgill , if , at any other time , I can be of service , you may command me . ''
+Parsing [sent. 1209 len. 5]: Pickersgill made no reply .
+Parsing [sent. 1210 len. 10]: `` Surely , Mr Pickersgill -- '' `` Pickersgill !
+Parsing [sent. 1211 len. 7]: How I hate that name ! ''
+Parsing [sent. 1212 len. 6]: said the smuggler , musing .
+Parsing [sent. 1213 len. 31]: `` I beg your lordship 's pardon -- If I may require your assistance for any of my unfortunate companions -- '' `` Not for yourself , Mr Pickersgill ? ''
+Parsing [sent. 1214 len. 4]: said Mrs Lascelles .
+Parsing [sent. 1215 len. 9]: `` Madam , I smuggle no more . ''
+Parsing [sent. 1216 len. 26]: `` For the pleasure I feel in hearing that resolution , Mr Pickersgill , '' said Cecilia , `` take my hand and thanks . ''
+Parsing [sent. 1217 len. 12]: `` And mine , '' said Mrs Lascelles , half crying .
+Parsing [sent. 1218 len. 15]: `` And mine , too , '' said Lord B -- , rising up .
+Parsing [sent. 1219 len. 19]: Pickersgill passed the back of his hand across his eyes , turned round , and left the cabin .
+Parsing [sent. 1220 len. 7]: `` I 'm so happy ! ''
+Parsing [sent. 1221 len. 8]: said Mrs Lascelles , bursting into tears .
+Parsing [sent. 1222 len. 13]: `` He 's a magnificent fellow , '' observed Lord B -- .
+Parsing [sent. 1223 len. 11]: `` Come , let us all go on deck . ''
+Parsing [sent. 1224 len. 11]: `` You have not seen my aunt , papa . ''
+Parsing [sent. 1225 len. 16]: `` True ; I 'll go in to her , and then follow you . ''
+Parsing [sent. 1226 len. 6]: The ladies went upon deck .
+Parsing [sent. 1227 len. 17]: Cecilia entered into conversation with Mr Stewart , giving him a narrative of what had happened .
+Parsing [sent. 1228 len. 25]: Mrs Lascelles sat abaft at the taffrail , with her pretty hand supporting her cheek , looking very much _ a la Juliette _ .
+Parsing [sent. 1229 len. 43]: `` Mrs Lascelles , '' said Pickersgill , `` before we part , allow me to observe , that it is _ you _ who have induced me to give up my profession -- '' `` Why me , Mr Pickersgill ? ''
+Parsing [sent. 1230 len. 11]: `` You said that you did not like it . ''
+Parsing [sent. 1231 len. 9]: Mrs Lascelles felt the force of the compliment .
+Parsing [sent. 1232 len. 21]: `` You said just now that you hated the name of Pickersgill : why do you call yourself so ? ''
+Parsing [sent. 1233 len. 11]: `` It was my smuggling name , Mrs Lascelles . ''
+Parsing [sent. 1234 len. 24]: `` And now that you have left off smuggling , pray what may be the name we are to call you by ? ''
+Parsing [sent. 1235 len. 43]: `` I can not resume it till I have not only left this vessel , but shaken hands with , and bid farewell to my companions ; and by that time , Mrs Lascelles , I shall be away from you . ''
+Parsing [sent. 1236 len. 20]: `` But I 've a great curiosity to know it ; and a lady 's curiosity must be gratified .
+Parsing [sent. 1237 len. 13]: You must call upon me some day , and tell it me .
+Parsing [sent. 1238 len. 6]: Here is my address . ''
+Parsing [sent. 1239 len. 24]: Pickersgill received the card with a low bow : and Lord B -- coming on deck , Mrs Lascelles hastened to meet him .
+Parsing [sent. 1240 len. 18]: The vessel was now passing the Bridge at the Needles , and the smuggler piloted her on .
+Parsing [sent. 1241 len. 34]: As soon as they were clear and well inside , the whole party went down into the cabin , Lord B -- requesting Pickersgill and Corbett to join him in a parting glass .
+Parsing [sent. 1242 len. 41]: Mr Stewart , who had received the account of what had passed from Cecilia , was very attentive to Pickersgill and took an opportunity of saying that he was sorry that he had said or done anything to annoy him .
+Parsing [sent. 1243 len. 32]: Every one recovered his spirits : and all was good humour and mirth , because Miss Ossulton adhered her resolution of not quitting the cabin till she could quit the yacht .
+Parsing [sent. 1244 len. 8]: At ten o'clock the yacht was anchored .
+Parsing [sent. 1245 len. 37]: Pickersgill took his leave of the honourable company and went in his boat with his men ; and Lord B -- was again in possession of his vessel , although he had not ship 's company .
+Parsing [sent. 1246 len. 36]: Maddox recovered his usual tone ; and the cook flourished his knife , swearing that he should like to see the smuggler who would again order him to dress cutlets _ a l'ombre Chinoise _ .
+Parsing [sent. 1247 len. 62]: The yacht had remained three days at Cowes , when Lord B -- received a letter from Pickersgill , stating that the men of his vessel had been captured , and would be condemned , in consequence of their having the gentlemen on board , who were bound to appear against them , to prove that they had sunk the brandy .
+Parsing [sent. 1248 len. 18]: Lord B -- paid all the recognisances , and the men were liberated for want of evidence .
+Parsing [sent. 1249 len. 33]: It was about two years after this that Cecilia Ossulton , who was sitting at her work-table in deep mourning for her aunt , was presented with a letter by the butler .
+Parsing [sent. 1250 len. 36]: It was from her friend Mrs Lascelles , informing her that she was married again to a Mr Davenant , and intended to pay her , a short visit on her way to the Continent .
+Parsing [sent. 1251 len. 42]: Mr and Mrs Davenant arrived the next day ; and when the latter introduced her husband , she said to Miss Ossulton , `` Look , Cecilia , dear , and tell me if you have ever seen Davenant before . ''
+Parsing [sent. 1252 len. 34]: Cecilia looked earnestly : `` I have , indeed , '' cried she at last , extending her hand with warmth ; `` and happy am I to meet with him again . ''
+Parsing [sent. 1253 len. 22]: For in Mr Davenant she recognised her old acquaintance the captain of the _ Happy-go-lucky _ , Jack Pickersgill the smuggler .
+Parsing [sent. 1254 len. 3]: THE END .
+Parsed file: ../../corpus_7authors/books_raw/FrederickMarryat/FMarryat_Cutters.txt [1254 sentences].
+Parsed 27400 words in 1254 sentences (64.99 wds/sec; 2.97 sents/sec).
