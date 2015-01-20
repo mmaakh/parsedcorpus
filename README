@@ -20,7 +20,7 @@ JAVA:
 
 COMMANDS:
     'java' was executd with -xm14000m as some books contained very long
-    sentences. To be specific, below is the modified version Stanford's
+    sentences. To be specific, below is the modified version of Stanford's
     lexparser.sh script that we used to parse the books.
 
     #!/usr/bin/env bash
