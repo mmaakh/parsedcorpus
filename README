@@ -19,7 +19,7 @@ JAVA:
 
 
 COMMANDS:
-    'java' was executd with -xm14000m as some files contained too long
+    'java' was executd with -xm14000m as some books contained very long
     sentences. To be specific, below is a modified version Stanford's
     lexparser.sh script.
 
