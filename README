@@ -1,15 +1,26 @@
 INTRO:
-The books are parsed using the parser in [1] with the configurations in [2].
+    Thanks to Dr. Grigori Sidorov et al. [1] for sharing their evaluation
+    corpus of 7 authors.
+
+    This repository provides a parsed version of that corpus. As the process is
+    expensive, I found sharing it useful.
+
+    For inquiries email m [ta] khonji [tod] org.
+
+    [1] http://www.cic.ipn.mx/~sidorov/
+
 
 PARSER:
     stanford-parser-full-2014-10-31
 
+
 JAVA:
     oracle-jre-bin-1.8.0.25
 
+
 COMMANDS:
     'java' was executd with -xm14000m as some files contained too long
-    sentences. To be explecit, below is a modified version Stanford's
+    sentences. To be specific, below is a modified version Stanford's
     lexparser.sh script.
 
     #!/usr/bin/env bash
