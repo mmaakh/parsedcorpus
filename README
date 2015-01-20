@@ -1,0 +1,28 @@
+INTRO:
+The books are parsed using the parser in [1] with the configurations in [2].
+
+PARSER:
+    stanford-parser-full-2014-10-31
+
+JAVA:
+    oracle-jre-bin-1.8.0.25
+
+COMMANDS:
+    'java' was executd with -xm14000m as some files contained too long
+    sentences. To be explecit, below is a modified version Stanford's
+    lexparser.sh script.
+
+    #!/usr/bin/env bash
+    #
+    # Runs the English PCFG parser on one or more files, printing trees only
+    
+    if [ ! $# -ge 1 ]; then
+      echo Usage: `basename $0` 'file(s)'
+      echo
+      exit
+    fi
+    
+    scriptdir=`dirname $0`
+    
+    java -mx14000m -cp "$scriptdir/*:" edu.stanford.nlp.parser.lexparser.LexicalizedParser \
+     -outputFormat "penn,typedDependencies" edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz $*
